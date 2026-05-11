@@ -1,14 +1,7 @@
 #!/usr/bin/env python3
 import json
 import re
-import sys
 from datetime import datetime
-from urllib.request import Request, urlopen
-
-REMOTE_URL = "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/raw/main/metadata.jsonl"
-REMOTE_FALLBACK_URL = "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/metadata.jsonl"
-CDN_BASE = "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main"
-USER_AGENT = "Mozilla/5.0 (compatible; GokuOpenLabBot/1.0; +https://github.com/Goku-OpenLab/seedance-2-prompts-datasets)"
 
 ROOT_METADATA = "metadata.jsonl"
 README_EN = "README.MD"
@@ -17,43 +10,7 @@ README_ZH = "README_zh.md"
 MARKER_START = "<!-- STATS_START -->"
 MARKER_END = "<!-- STATS_END -->"
 
-
-def fetch_remote_bytes():
-    req = Request(REMOTE_URL, headers={"User-Agent": USER_AGENT})
-    with urlopen(req, timeout=60) as resp:
-        return resp.read()
-
-
-def is_lfs_pointer(data):
-    try:
-        head = data.splitlines()[:1]
-    except Exception:
-        return False
-    if not head:
-        return False
-    return head[0].strip() == b"version https://git-lfs.github.com/spec/v1"
-
-
-def fetch_remote_bytes_with_fallback():
-    data = fetch_remote_bytes()
-    if is_lfs_pointer(data):
-        req = Request(REMOTE_FALLBACK_URL, headers={"User-Agent": USER_AGENT})
-        with urlopen(req, timeout=60) as resp:
-            data = resp.read()
-    return data
-
-
-def read_local_bytes(path):
-    try:
-        with open(path, "rb") as f:
-            return f.read()
-    except FileNotFoundError:
-        return b""
-
-
-def write_bytes(path, data):
-    with open(path, "wb") as f:
-        f.write(data)
+CDN_BASE = "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main"
 
 
 def clean_media_path(p):
@@ -117,6 +74,7 @@ def render_updates(items):
 
         cover_url = f"{CDN_BASE}/{cover}" if cover else ""
         video_url = f"{CDN_BASE}/{video}" if video else ""
+
         slug = str(item.get("slug", "")).strip()
         slug_part = f"{slug}-" if slug else ""
         hub_url = f"https://prompthub.gokuscraper.com/en/seeddance2/prompt/{slug_part}{item_id}"
@@ -170,15 +128,6 @@ def update_readme(path, section):
 
 
 def main():
-    remote = fetch_remote_bytes_with_fallback()
-    local = read_local_bytes(ROOT_METADATA)
-
-    if remote == local:
-        print("[INFO] No changes detected. Exiting early.")
-        sys.exit(0)
-
-    write_bytes(ROOT_METADATA, remote)
-
     items, total, today_count, today = parse_jsonl(ROOT_METADATA)
     updates_block = render_updates(items)
     section = build_section(total, today_count, today, updates_block)
