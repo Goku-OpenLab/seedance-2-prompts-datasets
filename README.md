@@ -129,6 +129,7 @@ Welcome to Goku Prompt Hub!
 
 
 
+
 <!-- STATS_START -->
 
 ## 📊 Statistics
@@ -137,8 +138,8 @@ Welcome to Goku Prompt Hub!
 
 ## 🎬 Today's Updates
 ### 🎬 Defense to Dominance: Basketball Storyboard
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02754.jpg" width="480" alt="SD2_02754">
-[🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/en/seeddance2/prompt/defense-to-dominance-basketball-storyboard-SD2_02754)
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02754.jpg" width="480" alt="SD2_02754"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/defense-to-dominance-basketball-storyboard-SD2_02754">🌐 View on Prompt Hub</a>
 
 #### 📝 Prompt
 ```
@@ -151,8 +152,8 @@ Create a high-quality 4K cinematic basketball storyboard showing a full sequence
 ---
 
 ### 🎬 LUMIÉRA Seoul Glass Glow Lip Elixir Ad
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02753.jpg" width="480" alt="SD2_02753">
-[🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/en/seeddance2/prompt/lumiera-seoul-glass-glow-lip-elixir-ad-SD2_02753)
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02753.jpg" width="480" alt="SD2_02753"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/lumiera-seoul-glass-glow-lip-elixir-ad-SD2_02753">🌐 View on Prompt Hub</a>
 
 #### 📝 Prompt
 ```
@@ -165,8 +166,8 @@ Base Setup: “Ultra-realistic fast-paced TikTok-style beauty ad inside a luxury
 ---
 
 ### 🎬 Golden Lightning Impact Strike
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02752.jpg" width="480" alt="SD2_02752">
-[🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/en/seeddance2/prompt/golden-lightning-impact-strike-SD2_02752)
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02752.jpg" width="480" alt="SD2_02752"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/golden-lightning-impact-strike-SD2_02752">🌐 View on Prompt Hub</a>
 
 #### 📝 Prompt
 ```
@@ -179,8 +180,8 @@ Ultra-realistic cinematic action, grounded physics, IMAX film look, 4K–8K HDR,
 ---
 
 ### 🎬 Fierce Warrior Unleashes Energy Arrow
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02751.jpg" width="480" alt="SD2_02751">
-[🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/en/seeddance2/prompt/fierce-warrior-unleashes-energy-arrow-SD2_02751)
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02751.jpg" width="480" alt="SD2_02751"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/fierce-warrior-unleashes-energy-arrow-SD2_02751">🌐 View on Prompt Hub</a>
 
 #### 📝 Prompt
 ```
@@ -193,8 +194,8 @@ A cinematic, fast-paced action sequence starting with a close-up of a fierce fem
 ---
 
 ### 🎬 Japanese Women's WWE Championship Finale
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02750.jpg" width="480" alt="SD2_02750">
-[🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/en/seeddance2/prompt/japanese-women-wwe-championship-finale-SD2_02750)
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02750.jpg" width="480" alt="SD2_02750"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/japanese-women-wwe-championship-finale-SD2_02750">🌐 View on Prompt Hub</a>
 
 #### 📝 Prompt
 ```
@@ -207,8 +208,8 @@ Create a hyper-realistic, cinematic 15-second continuous sequence depicting a WW
 ---
 
 ### 🎬 Luxury Beauty Cream Ad
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02749.jpg" width="480" alt="SD2_02749">
-[🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/en/seeddance2/prompt/luxury-beauty-cream-ad-SD2_02749)
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02749.jpg" width="480" alt="SD2_02749"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/luxury-beauty-cream-ad-SD2_02749">🌐 View on Prompt Hub</a>
 
 #### 📝 Prompt
 ```
@@ -221,8 +222,8 @@ Seedance 2.0 – 15 Beauty Cream Advertisement Video Prompt Create a 15-second v
 ---
 
 ### 🎬 Grocery Aisle Memories
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02748.jpg" width="480" alt="SD2_02748">
-[🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/en/seeddance2/prompt/grocery-aisle-memories-SD2_02748)
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02748.jpg" width="480" alt="SD2_02748"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/grocery-aisle-memories-SD2_02748">🌐 View on Prompt Hub</a>
 
 #### 📝 Prompt
 ```
@@ -235,8 +236,8 @@ Create a 15-second cinematic short video with a unique emotional storyline. Scen
 ---
 
 ### 🎬 Royal Princess Ballroom Dance Sequence
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02747.jpg" width="480" alt="SD2_02747">
-[🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/en/seeddance2/prompt/royal-princess-ballroom-dance-sequence-SD2_02747)
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02747.jpg" width="480" alt="SD2_02747"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/royal-princess-ballroom-dance-sequence-SD2_02747">🌐 View on Prompt Hub</a>
 
 #### 📝 Prompt
 ```
@@ -249,8 +250,8 @@ Create a cinematic fantasy movie sequence based on this 16-panel storyboard post
 ---
 
 ### 🎬 Neon Heist Chase Escape
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02746.jpg" width="480" alt="SD2_02746">
-[🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/en/seeddance2/prompt/neon-heist-chase-escape-SD2_02746)
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02746.jpg" width="480" alt="SD2_02746"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/neon-heist-chase-escape-SD2_02746">🌐 View on Prompt Hub</a>
 
 #### 📝 Prompt
 ```
@@ -263,8 +264,8 @@ Style: Cinematic thriller, handheld camera energy, high contrast lighting, teal-
 ---
 
 ### 🎬 Gourmet Burger ASMR Slow Motion Hook
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02745.jpg" width="480" alt="SD2_02745">
-[🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/en/seeddance2/prompt/gourmet-burger-asmr-slow-motion-hook-SD2_02745)
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02745.jpg" width="480" alt="SD2_02745"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/gourmet-burger-asmr-slow-motion-hook-SD2_02745">🌐 View on Prompt Hub</a>
 
 #### 📝 Prompt
 ```
@@ -277,8 +278,8 @@ Style: Cinematic thriller, handheld camera energy, high contrast lighting, teal-
 ---
 
 ### 🎬 Faceless Mannequins Storyboard Composition
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02744.jpg" width="480" alt="SD2_02744">
-[🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/en/seeddance2/prompt/faceless-mannequins-storyboard-composition-SD2_02744)
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02744.jpg" width="480" alt="SD2_02744"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/faceless-mannequins-storyboard-composition-SD2_02744">🌐 View on Prompt Hub</a>
 
 #### 📝 Prompt
 ```
@@ -291,8 +292,8 @@ Read IMG_1 as the sole main character reference. Read IMG_2 as an abstract story
 ---
 
 ### 🎬 Samurai Duel at Dusk
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02743.jpg" width="480" alt="SD2_02743">
-[🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/en/seeddance2/prompt/samurai-duel-at-dusk-SD2_02743)
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02743.jpg" width="480" alt="SD2_02743"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/samurai-duel-at-dusk-SD2_02743">🌐 View on Prompt Hub</a>
 
 #### 📝 Prompt
 ```
@@ -305,8 +306,8 @@ Style: Cinematic samurai drama, ultra-realistic, muted color palette, natural du
 ---
 
 ### 🎬 Alien Bus Attack in Rainy Night
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02742.jpg" width="480" alt="SD2_02742">
-[🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/en/seeddance2/prompt/alien-bus-attack-rainy-night-SD2_02742)
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02742.jpg" width="480" alt="SD2_02742"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/alien-bus-attack-rainy-night-SD2_02742">🌐 View on Prompt Hub</a>
 
 #### 📝 Prompt
 ```
@@ -319,8 +320,8 @@ A packed city bus tears through rainy streets at night. Suddenly the entire floo
 ---
 
 ### 🎬 Ancient Forest Apocalyptic Fairy Demon Clash
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02741.jpg" width="480" alt="SD2_02741">
-[🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/en/seeddance2/prompt/ancient-forest-apocalyptic-fairy-demon-clash-SD2_02741)
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02741.jpg" width="480" alt="SD2_02741"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/ancient-forest-apocalyptic-fairy-demon-clash-SD2_02741">🌐 View on Prompt Hub</a>
 
 #### 📝 Prompt
 ```
@@ -333,8 +334,8 @@ A vast ancient forest, towering trees thousands of years old, their bark carved 
 ---
 
 ### 🎬 Pastel Floral Dress Through Italy
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02740.jpg" width="480" alt="SD2_02740">
-[🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/en/seeddance2/prompt/pastel-floral-dress-through-italy-SD2_02740)
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02740.jpg" width="480" alt="SD2_02740"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/pastel-floral-dress-through-italy-SD2_02740">🌐 View on Prompt Hub</a>
 
 #### 📝 Prompt
 ```

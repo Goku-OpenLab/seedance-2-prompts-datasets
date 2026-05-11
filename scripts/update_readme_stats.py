@@ -124,8 +124,8 @@ def render_updates(items):
         heading = title if title else item_id
         block = (
             f"### 🎬 {heading}\n"
-            f"<img src=\"{cover_url}\" width=\"480\" alt=\"{item_id}\">\n"
-            f"[🌐 View on Prompt Hub]({hub_url})\n\n"
+            f"<img src=\"{cover_url}\" width=\"480\" alt=\"{item_id}\"><br>\n"
+            f"<a href=\"{hub_url}\">🌐 View on Prompt Hub</a>\n\n"
             f"#### 📝 Prompt\n"
             f"```\n{prompt}\n```\n\n"
             f"#### 📌 Details\n"
