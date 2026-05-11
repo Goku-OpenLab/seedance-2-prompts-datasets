@@ -13,13 +13,13 @@
 **下载完整数据集体验：**  
 [https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets)
 
-![huggingface](img\huggingface.jpg)
+![huggingface](img/huggingface.jpg)
 
 ## 🌐 在线观看体验
 无需登录，无广告，极速响应。  
 👉 **[在线观看入口](https://prompthub.gokuscraper.com/)**
 
-![website](img\website.jpg)
+![website](img/website.jpg)
 
 ## 📖 项目介绍
 **seedance-2-prompts-datasets** 由 **GokuOpenLab** 发起，是一个面向开发者与研究者的 Prompt 数据基础设施项目。
@@ -129,3 +129,147 @@ print(f"✅ 成功加载 {len(df)} 条结构化视频提示词！")
 
 ---
 *Happy Prompting!*
+
+<!-- STATS_START -->
+
+## 📊 Statistics
+- Total Prompts: **2735**
+- Updated Today (UTC 2026-05-11): **243**
+
+## 🎬 Today's Updates
+### 🎬 ID: SD2_02754
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02754.jpg" width="480" alt="SD2_02754">
+
+- **Prompt**: Create a high-quality 4K cinematic basketball storyboard showing a full sequence from defense to a powerful score, using dynamic arena lighting, dramatic crowd atmosphere, and professional sports broadcast style. The scene begins with an intense h...
+- **Specs**: Ratio: `1.33` | Duration: `15.07s`
+- **Links**: [🎬 Watch Video](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02754.mp4) | [🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/?q=SD2_02754)
+
+---
+
+### 🎬 ID: SD2_02753
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02753.jpg" width="480" alt="SD2_02753">
+
+- **Prompt**: Base Setup: “Ultra-realistic fast-paced TikTok-style beauty ad inside a luxury cosmetics store. Bright lighting, glossy reflections, trendy aesthetic. A stylish Korean girl with glowing skin and modern outfit. Fast cuts, dynamic camera movement, v...
+- **Specs**: Ratio: `1.78` | Duration: `15.2s`
+- **Links**: [🎬 Watch Video](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02753.mp4) | [🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/?q=SD2_02753)
+
+---
+
+### 🎬 ID: SD2_02752
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02752.jpg" width="480" alt="SD2_02752">
+
+- **Prompt**: Ultra-realistic cinematic action, grounded physics, IMAX film look, 4K–8K HDR, high contrast, deep shadows, natural skin texture, subtle film grain, anamorphic lens 35mm (f/2.8). No over-glow, no excessive aura. Energy as air pressure distortion +...
+- **Specs**: Ratio: `2.34` | Duration: `15.13s`
+- **Links**: [🎬 Watch Video](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02752.mp4) | [🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/?q=SD2_02752)
+
+---
+
+### 🎬 ID: SD2_02751
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02751.jpg" width="480" alt="SD2_02751">
+
+- **Prompt**: A cinematic, fast-paced action sequence starting with a close-up of a fierce female warrior with dark hair and silver metallic facial markings, aiming a glowing blue energy bow and arrow. Transition to an extreme close-up of her brown eye as a fut...
+- **Specs**: Ratio: `1.78` | Duration: `15.23s`
+- **Links**: [🎬 Watch Video](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02751.mp4) | [🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/?q=SD2_02751)
+
+---
+
+### 🎬 ID: SD2_02750
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02750.jpg" width="480" alt="SD2_02750">
+
+- **Prompt**: Create a hyper-realistic, cinematic 15-second continuous sequence depicting a WWE-style championship finale between two highly athletic Japanese female wrestlers in a packed arena. Follow a precise match progression: fatigued staredown → explosive...
+- **Specs**: Ratio: `1.78` | Duration: `15.13s`
+- **Links**: [🎬 Watch Video](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02750.mp4) | [🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/?q=SD2_02750)
+
+---
+
+### 🎬 ID: SD2_02749
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02749.jpg" width="480" alt="SD2_02749">
+
+- **Prompt**: Seedance 2.0 – 15 Beauty Cream Advertisement Video Prompt Create a 15-second vertical (9:16) ultra-realistic cinematic advertisement video for a beauty cream. Scene: A young woman in a clean, modern vanity or soft studio bathroom setting. The envi...
+- **Specs**: Ratio: `1.78` | Duration: `15.05s`
+- **Links**: [🎬 Watch Video](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02749.mp4) | [🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/?q=SD2_02749)
+
+---
+
+### 🎬 ID: SD2_02748
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02748.jpg" width="480" alt="SD2_02748">
+
+- **Prompt**: Create a 15-second cinematic short video with a unique emotional storyline. Scene starts inside a softly lit modern grocery store. A young woman (mid-20s, natural look, casual outfit) walks slowly through the aisles, picking up everyday items like...
+- **Specs**: Ratio: `1.78` | Duration: `15.17s`
+- **Links**: [🎬 Watch Video](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02748.mp4) | [🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/?q=SD2_02748)
+
+---
+
+### 🎬 ID: SD2_02747
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02747.jpg" width="480" alt="SD2_02747">
+
+- **Prompt**: Create a cinematic fantasy movie sequence based on this 16-panel storyboard poster. A young royal princess is performing an elegant ballroom dance inside a luxurious European palace ballroom at night. Warm golden chandelier light and candlelight g...
+- **Specs**: Ratio: `0.56` | Duration: `9.65s`
+- **Links**: [🎬 Watch Video](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02747.mp4) | [🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/?q=SD2_02747)
+
+---
+
+### 🎬 ID: SD2_02746
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02746.jpg" width="480" alt="SD2_02746">
+
+- **Prompt**: Style: Cinematic thriller, handheld camera energy, high contrast lighting, teal-orange grading, shallow depth of field, fast rhythmic cuts, realistic motion blur. 0–2s — The Heist Breaks Loose Interior bank vault corridor. Red alarm lights flashin...
+- **Specs**: Ratio: `1.78` | Duration: `14.1s`
+- **Links**: [🎬 Watch Video](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02746.mp4) | [🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/?q=SD2_02746)
+
+---
+
+### 🎬 ID: SD2_02745
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02745.jpg" width="480" alt="SD2_02745">
+
+- **Prompt**: 0–3s (VIRAL HOOK): Extreme macro close-up of a gourmet cheeseburger being lifted slowly. Melted cheese stretches dramatically between bun and patty—thick, glossy, elastic strands. Juices glisten on the patty, steam rises naturally. Slow-motion eff...
+- **Specs**: Ratio: `1.78` | Duration: `11.73s`
+- **Links**: [🎬 Watch Video](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02745.mp4) | [🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/?q=SD2_02745)
+
+---
+
+### 🎬 ID: SD2_02744
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02744.jpg" width="480" alt="SD2_02744">
+
+- **Prompt**: Read IMG_1 as the sole main character reference. Read IMG_2 as an abstract storyboard reference. The faceless mannequins in IMG_2 are not characters but symbols indicating position, pose, and composition.
+- **Specs**: Ratio: `1.78` | Duration: `15.08s`
+- **Links**: [🎬 Watch Video](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02744.mp4) | [🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/?q=SD2_02744)
+
+---
+
+### 🎬 ID: SD2_02743
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02743.jpg" width="480" alt="SD2_02743">
+
+- **Prompt**: Style: Cinematic samurai drama, ultra-realistic, muted color palette, natural dusk lighting, slow-motion emphasis, wind-swept atmosphere, shallow depth of field, minimal dialogue, emotional tension, Kurosawa-inspired framing. 0–3s — Silent Approac...
+- **Specs**: Ratio: `1.78` | Duration: `15.07s`
+- **Links**: [🎬 Watch Video](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02743.mp4) | [🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/?q=SD2_02743)
+
+---
+
+### 🎬 ID: SD2_02742
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02742.jpg" width="480" alt="SD2_02742">
+
+- **Prompt**: A packed city bus tears through rainy streets at night. Suddenly the entire floor dents upward beneath passengers’ feet with a metallic BOOM. People scream as scraping sounds race underneath the bus at impossible speed. Sparks blast past the windo...
+- **Specs**: Ratio: `1.0` | Duration: `12.17s`
+- **Links**: [🎬 Watch Video](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02742.mp4) | [🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/?q=SD2_02742)
+
+---
+
+### 🎬 ID: SD2_02741
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02741.jpg" width="480" alt="SD2_02741">
+
+- **Prompt**: A vast ancient forest, towering trees thousands of years old, their bark carved with glowing runes, mist curling through the roots like living creatures. Dead silence. Then — a crack of golden light splits the sky. Thick storm clouds part and a bl...
+- **Specs**: Ratio: `0.75` | Duration: `15.21s`
+- **Links**: [🎬 Watch Video](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02741.mp4) | [🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/?q=SD2_02741)
+
+---
+
+### 🎬 ID: SD2_02740
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02740.jpg" width="480" alt="SD2_02740">
+
+- **Prompt**: 0–4s Soft morning light spills over Venice. A young girl steps out of a narrow alley wearing a pastel cotton floral dress, light and breathable, flowing gently with every step. The canals shimmer as gondolas pass quietly in the background. 4–8s Sh...
+- **Specs**: Ratio: `1.78` | Duration: `15.17s`
+- **Links**: [🎬 Watch Video](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/videos/SD2_02740.mp4) | [🌐 View on Prompt Hub](https://prompthub.gokuscraper.com/?q=SD2_02740)
+
+---
+
+<!-- STATS_END -->
