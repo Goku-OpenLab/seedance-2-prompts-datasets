@@ -53,7 +53,7 @@ def parse_jsonl(path):
     return items, total, today_count, today
 
 
-def render_updates(items):
+def render_updates(items, lang):
     latest = items[-15:][::-1]
     blocks = []
 
@@ -62,13 +62,13 @@ def render_updates(items):
         media = item.get("media") or {}
         spec = item.get("spec") or {}
         i18n = item.get("i18n") or {}
-        en = i18n.get("en") or {}
+        lang_obj = i18n.get(lang) or {}
 
-        title = str(en.get("t", "") or "").strip()
+        title = str(lang_obj.get("t", "") or "").strip()
 
         cover = clean_media_path(media.get("c", ""))
         video = clean_media_path(media.get("v", ""))
-        prompt = clean_prompt(en.get("p", ""))
+        prompt = clean_prompt(lang_obj.get("p", ""))
         ratio = spec.get("ratio", "")
         duration = spec.get("duration", "")
 
@@ -80,10 +80,11 @@ def render_updates(items):
         hub_url = f"https://prompthub.gokuscraper.com/en/seeddance2/prompt/{slug_part}{item_id}"
 
         heading = title if title else item_id
+        link_text = "🌐 在线观看" if lang == "zh" else "🌐 Watch Online"
         block = (
             f"### 🎬 {heading}\n"
             f"<img src=\"{cover_url}\" width=\"480\" alt=\"{item_id}\"><br>\n"
-            f"<a href=\"{hub_url}\">🌐 View on Prompt Hub</a>\n\n"
+            f"<a href=\"{hub_url}\">{link_text}</a>\n\n"
             f"#### 📝 Prompt\n"
             f"```\n{prompt}\n```\n\n"
             f"#### 📌 Details\n"
@@ -95,7 +96,15 @@ def render_updates(items):
     return "\n\n".join(blocks)
 
 
-def build_section(total, today_count, today, updates_block):
+def build_section(total, today_count, today, updates_block, lang):
+    if lang == "zh":
+        return (
+            "## 📊 数据统计\n"
+            f"- 总 Prompt 数量：**{total}**\n"
+            f"- 今日更新（UTC {today}）：**{today_count}**\n\n"
+            "## 🎬 今日更新\n"
+            f"{updates_block}\n"
+        )
     return (
         "## 📊 Statistics\n"
         f"- Total Prompts: **{total}**\n"
@@ -129,11 +138,14 @@ def update_readme(path, section):
 
 def main():
     items, total, today_count, today = parse_jsonl(ROOT_METADATA)
-    updates_block = render_updates(items)
-    section = build_section(total, today_count, today, updates_block)
+    updates_block_en = render_updates(items, "en")
+    section_en = build_section(total, today_count, today, updates_block_en, "en")
 
-    update_readme(README_EN, section)
-    update_readme(README_ZH, section)
+    updates_block_zh = render_updates(items, "zh")
+    section_zh = build_section(total, today_count, today, updates_block_zh, "zh")
+
+    update_readme(README_EN, section_en)
+    update_readme(README_ZH, section_zh)
 
 
 if __name__ == "__main__":

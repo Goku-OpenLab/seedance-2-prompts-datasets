@@ -131,20 +131,21 @@ print(f"✅ 成功加载 {len(df)} 条结构化视频提示词！")
 *Happy Prompting!*
 
 
+
 <!-- STATS_START -->
 
-## 📊 Statistics
-- Total Prompts: **2735**
-- Updated Today (UTC 2026-05-11): **243**
+## 📊 数据统计
+- 总 Prompt 数量：**2735**
+- 今日更新（UTC 2026-05-11）：**243**
 
-## 🎬 Today's Updates
-### 🎬 Defense to Dominance: Basketball Storyboard
+## 🎬 今日更新
+### 🎬 篮球攻防全流程电影级故事板
 <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02754.jpg" width="480" alt="SD2_02754"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/defense-to-dominance-basketball-storyboard-SD2_02754">🌐 View on Prompt Hub</a>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/defense-to-dominance-basketball-storyboard-SD2_02754">🌐 在线观看</a>
 
 #### 📝 Prompt
 ```
-Create a high-quality 4K cinematic basketball storyboard showing a full sequence from defense to a powerful score, using dynamic arena lighting, dramatic crowd atmosphere, and professional sports broadcast style. The scene begins with an intense half-court moment where a defender performs a clean steal or block, the ball sharply deflected as sweat and motion particles are captured in slow motion. Transition immediately into a fast break: the player recovers the ball, dribbles with speed and control, accelerating past opponents with quick crossovers and footwork. Show close-ups of sneakers gripping the court, the ball bouncing with precise rhythm, and focused facial expressions, mixed with wide shots of the court opening up. Add a key assist moment where the ball is passed sharply between defenders, followed by a sprint toward the basket with the crowd rising in anticipation. Build tension with a slow-motion approach to the paint, then a powerful finish—either a high-impact dunk, smooth layup, or clean jump shot. Show the ball swishing through the net or the rim rattling with force, including defender and crowd reactions. Integrate realistic background audio throughout: squeaking sneakers on hardwood, echoing dribbles, player shouts, referee whistle, crowd murmurs building into loud cheers, commentator-style distant hype, and arena reverb that intensifies during key moments like the steal, fast break, and final shot. End with an emotional celebration: the scorer running back, flexing, or raising arms as teammates join, arena lights glowing and crowd erupting. Use varied camera angles (wide, tracking, close-up, POV, slow motion), strong motion blur, and realistic physics (ball bounce, shoe friction, body movement), emphasizing the transition from defensive control to offensive dominance and victory.
+打造一支高质量4K电影级篮球故事板，完整呈现从防守到强力得分的全流程，运用动态场馆灯光、戏剧性观众氛围和专业体育转播风格。开场聚焦半场激烈对抗：防守者干净利落地完成抢断或封盖，篮球被精准拍飞，慢镜头捕捉汗水与运动粒子。随即切入快攻：球员夺回球权，运球疾驰中保持速度与掌控，通过快速变向和脚步动作甩开防守者。特写镜头展现球鞋抓地细节、篮球有节奏的弹跳以及专注的面部表情，穿插球场空间开阔的全景画面。关键助攻时刻：篮球在防守队员间犀利传递，随后球员冲向篮筐，观众席随之沸腾。慢镜头逼近油漆区，最终以强力终结——高冲击力扣篮、流畅上篮或干净跳投收尾。篮球应声入网或篮筐剧烈震颤，同时捕捉防守方与观众的反应。全程融入真实背景音效：硬木地板上球鞋的摩擦声、运球回响、球员呼喊、裁判哨音、观众低语渐变为震耳欢呼、解说员式远景激情解说，以及关键节点（抢断、快攻、绝杀球）不断强化的场馆混响。结尾以情感爆发收束：得分者回跑、握拳怒吼或高举双臂，队友簇拥而至，场馆灯光闪耀，观众彻底沸腾。运用多角度镜头（全景、跟拍、特写、第一人称、慢动作），强化动态模糊与真实物理效果（篮球弹跳、球鞋摩擦、身体动作），突出从防守掌控到进攻统治的胜利蜕变。
 ```
 
 #### 📌 Details
@@ -152,13 +153,13 @@ Create a high-quality 4K cinematic basketball storyboard showing a full sequence
 
 ---
 
-### 🎬 LUMIÉRA Seoul Glass Glow Lip Elixir Ad
+### 🎬 玻璃唇精华秒变
 <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02753.jpg" width="480" alt="SD2_02753"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/lumiera-seoul-glass-glow-lip-elixir-ad-SD2_02753">🌐 View on Prompt Hub</a>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/lumiera-seoul-glass-glow-lip-elixir-ad-SD2_02753">🌐 在线观看</a>
 
 #### 📝 Prompt
 ```
-Base Setup: “Ultra-realistic fast-paced TikTok-style beauty ad inside a luxury cosmetics store. Bright lighting, glossy reflections, trendy aesthetic. A stylish Korean girl with glowing skin and modern outfit. Fast cuts, dynamic camera movement, viral editing style, 4K.” ⏱️ 0:00 – 0:02 (Hook – Scroll Stopper) – Quick zoom-in on girl entering store – Flash cuts of colorful makeup shelves 🎙️ Text on screen: “WAIT—this changed everything 💄✨” 🎧 Sound: trending upbeat TikTok beat drop ⏱️ 0:02 – 0:05 (Fast Shopping Montage) – Rapid cuts: • Grabbing products • Tossing items into cart • Close-up hand swipes across shelves 🎙️ Text: “Trying EVERYTHING…” ⏱️ 0:05 – 0:07 (Discovery Moment) – Sudden slow-motion contrast – Spotlight on lip gloss – Product label visible: “LUMIÉRA Seoul – Glass Glow Lip Elixir” 👩 Girl (whisper, excited): “Wait… this one?” ⏱️ 0:07 – 0:10 (Transformation Apply) – Quick mirror transition – Fast close-up of lip gloss applying – Smooth glossy shine appears instantly 🎙️ Text: “OMG 😳” 👩 Girl: “Okay… WOW.” ⏱️ 0:10 – 0:13 (Results + Beauty Shots) – Rapid aesthetic cuts: • Lips glowing • Hair flip • Confident look 🎙️ Text: “Glass lips in seconds ✨” ⏱️ 0:13 – 0:15 (Product Close + CTA) – Fast zoom into product – Clean luxury product shot 🎙️ Voiceover: “LUMIÉRA Seoul – Glass Glow Lip Elixir.” 🎙️ Text on screen: “Get yours NOW 🔥” – Beat drop ends Editing Style: Fast cuts, jump transitions, speed ramps, zoom-ins, flash transitions Camera Style: Handheld + quick zooms + macro beauty shots Sound: Trending TikTok audio, beat drops synced with cuts Mood & Style: Trendy, addictive, high-energy, viral beauty ad Modern Gen-Z aesthetic, ultra-polished, 4K
+基础设定：“高端化妆品店内超写实快节奏TikTok风格美妆广告。明亮灯光、镜面反光、潮流美学。一位皮肤透亮、身着现代服饰的时尚韩国女孩。快速剪辑、动态运镜、病毒式编辑风格、4K画质。” ⏱️ 0:00 – 0:02（钩子——吸引眼球）——女孩进店时快速推近镜头——彩色美妆货架闪切 🎙️ 屏幕文字：“等等——这改变了一切 💄✨” 🎧 音效：热门TikTok节拍骤降 ⏱️ 0:02 – 0:05（快速购物蒙太奇）——快速剪辑：• 抓取产品 • 将商品扔进购物车 • 手扫过货架的特写 🎙️ 文字：“试遍所有产品…” ⏱️ 0:05 – 0:07（发现时刻）——突然慢动作对比——聚光灯打在唇彩上——产品标签清晰可见：“LUMIÉRA Seoul – 玻璃光泽唇部精华” 👩 女孩（兴奋低语）：“等等……这个？” ⏱️ 0:07 – 0:10（转变上妆）——快速镜子转场——唇彩涂抹的快速特写——瞬间呈现光滑光泽 🎙️ 文字：“天哪 😳” 👩 女孩：“好吧……哇哦。” ⏱️ 0:10 – 0:13（效果+美妆镜头）——快速美学剪辑：• 嘴唇发光 • 甩发 • 自信表情 🎙️ 文字：“几秒打造玻璃唇 ✨” ⏱️ 0:13 – 0:15（产品特写+行动号召）——快速推近产品——干净奢华的产品镜头 🎙️ 画外音：“LUMIÉRA Seoul – 玻璃光泽唇部精华。” 🎙️ 屏幕文字：“立即入手 🔥”——节拍骤降结束 剪辑风格：快速剪辑、跳跃转场、速度渐变、推近镜头、闪光转场 运镜风格：手持拍摄+快速推近+微距美妆镜头 音效：热门TikTok音频，节拍骤降与剪辑同步 氛围与风格：潮流、上瘾、高能量、病毒式美妆广告 现代Z世代美学，极致精致，4K画质
 ```
 
 #### 📌 Details
@@ -166,13 +167,13 @@ Base Setup: “Ultra-realistic fast-paced TikTok-style beauty ad inside a luxury
 
 ---
 
-### 🎬 Golden Lightning Impact Strike
+### 🎬 超写实变身战斗
 <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02752.jpg" width="480" alt="SD2_02752"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/golden-lightning-impact-strike-SD2_02752">🌐 View on Prompt Hub</a>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/golden-lightning-impact-strike-SD2_02752">🌐 在线观看</a>
 
 #### 📝 Prompt
 ```
-Ultra-realistic cinematic action, grounded physics, IMAX film look, 4K–8K HDR, high contrast, deep shadows, natural skin texture, subtle film grain, anamorphic lens 35mm (f/2.8). No over-glow, no excessive aura. Energy as air pressure distortion + thin golden electricity (sharp, intermittent). Camera: dynamic handheld, rapid tracking, whip pan, impact shake, natural motion blur. SCENE (CONTINUOUS 10 SECONDS): A slim-built man wearing a white tank top and black pants stands on cracked ground. 0–2s: Fast handheld push-in. Body tenses, veins visible, heavy breathing. Small golden electric sparks appear on hands and shoulders. Dust begins to vibrate. 2–4s (FAST TRANSFORMATION): Muscles grow into an athletic build gradually (no instant cut). Hair rises and turns golden. Ground cracks expand radially, small rocks lift and scatter. Subtle air distortion. A short mini shockwave pushes dust outward. Camera: quick orbit + light shake. 4–6s (TARGET LOCK): Reveal a humanoid tentacled monster in front. Tentacles move aggressively with heavy weight. Character condenses power, leans slightly forward, then explodes into a high-speed sprint (realistic dash blur). Camera: extreme whip pan, almost losing subject. 6–8s (IMPACT STRIKE): Character appears instantly in front of the monster. One powerful punch to torso/head. Effects: heavy impact (flesh + mass), brief golden electricity burst at contact, air pressure hit, dust explosion from feet. Camera: impact zoom + violent shake + slight slow motion on contact frame. 8–10s (LAUNCH → MOUNTAIN CRASH): Monster is launched far, leaving a dust trail. Cut to wide shot: monster crashes into a mountainside, rocks collapse, large debris falls (realistic rockfall, no energy explosion). Cut back: character stands still, athletic body, golden hair. Subtle residual electricity flickers. Dust settles. Silence after impact.
+超写实电影级动作，物理真实感，IMAX电影质感，4K-8K HDR，高对比度，深邃阴影，自然皮肤纹理，细微胶片颗粒，35mm变形镜头（f/2.8）。无过度光晕，无多余辉光。能量表现为气压扭曲+细密金色电光（锐利、间歇性）。镜头：动态手持跟拍，快速追踪，甩镜，冲击震动，自然动态模糊。场景（连续10秒）：一名身穿白色背心与黑色长裤的瘦削男子立于龟裂地面。0-2秒：手持镜头快速推进。身体绷紧，青筋浮现，呼吸沉重。双手与肩部浮现细小金色电火花。尘土开始震颤。2-4秒（快速变身）：肌肉逐渐膨胀至运动员体格（非瞬间切换）。发丝竖起并转为金色。地面裂纹呈放射状扩展，碎石浮起四散。空气产生微妙扭曲。一道短促微型冲击波将尘土向外推散。镜头：快速环绕+轻微抖动。4-6秒（锁定目标）：前方显现一只人形触手怪物。触手沉重地猛烈挥舞。角色凝聚力量，身体微向前倾，随即爆发高速冲刺（真实动态模糊）。镜头：极致甩镜，几乎丢失主体。6-8秒（冲击打击）：角色瞬间闪现至怪物面前。一记重拳击中躯干/头部。特效：沉重打击感（血肉+质量感），接触点短暂金色电光爆发，气压冲击，脚下尘土炸开。镜头：冲击变焦+剧烈抖动+接触帧轻微慢动作。8-10秒（击飞→撞山）：怪物被远远击飞，拖曳一道尘迹。切至远景：怪物撞入山壁，岩石崩塌，大块碎石坠落（真实落石效果，无能量爆炸）。切回近景：角色静立，运动员体格，金色发丝。细微残余电光闪烁。尘埃落定。撞击后的寂静。
 ```
 
 #### 📌 Details
@@ -180,13 +181,13 @@ Ultra-realistic cinematic action, grounded physics, IMAX film look, 4K–8K HDR,
 
 ---
 
-### 🎬 Fierce Warrior Unleashes Energy Arrow
+### 🎬 女战士能量箭炸裂
 <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02751.jpg" width="480" alt="SD2_02751"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/fierce-warrior-unleashes-energy-arrow-SD2_02751">🌐 View on Prompt Hub</a>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/fierce-warrior-unleashes-energy-arrow-SD2_02751">🌐 在线观看</a>
 
 #### 📝 Prompt
 ```
-A cinematic, fast-paced action sequence starting with a close-up of a fierce female warrior with dark hair and silver metallic facial markings, aiming a glowing blue energy bow and arrow. Transition to an extreme close-up of her brown eye as a futuristic orange digital targeting reticle activates over her pupil. The camera cuts to an over-the-shoulder wide shot showing her standing on a high rocky cliff, overlooking a sunlit desert canyon where an army of dark, monstrous creatures is marching. She releases the glowing blue arrow, which splits into multiple brilliant energy beams mid-air. The camera swiftly tracks the main blue beam as it speeds down the canyon towards the monsters, culminating in a massive, explosive impact of thick dust and debris among the creatures.
+一段电影感十足的快节奏动作场景，起始于一位黑发、面部带有银色金属纹路的凶猛女战士特写，她正瞄准一把发着蓝光的能量弓与箭。镜头切换至她棕色眼眸的极端特写，一个未来风格的橙色数字瞄准准星在她的瞳孔上激活。接着，画面切至过肩广角镜头，展现她立于高耸岩石悬崖之上，俯瞰着阳光照耀的沙漠峡谷，那里有一支由黑暗怪物组成的大军正在行进。她松开那支发光的蓝箭，箭矢在半空中分裂成数道耀眼的能量光束。镜头迅速追踪着主蓝色光束，它沿着峡谷疾速飞向怪物群，最终在怪物中引发了一场由厚重尘土与碎片构成的巨大爆炸冲击。
 ```
 
 #### 📌 Details
@@ -194,13 +195,13 @@ A cinematic, fast-paced action sequence starting with a close-up of a fierce fem
 
 ---
 
-### 🎬 Japanese Women's WWE Championship Finale
+### 🎬 日本女摔角冠军决战
 <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02750.jpg" width="480" alt="SD2_02750"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/japanese-women-wwe-championship-finale-SD2_02750">🌐 View on Prompt Hub</a>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/japanese-women-wwe-championship-finale-SD2_02750">🌐 在线观看</a>
 
 #### 📝 Prompt
 ```
-Create a hyper-realistic, cinematic 15-second continuous sequence depicting a WWE-style championship finale between two highly athletic Japanese female wrestlers in a packed arena. Follow a precise match progression: fatigued staredown → explosive clothesline → submission hold battle → DDT counter → near fall → German suplex → top-rope moonsault finisher → clean three-count → championship celebration with belt, confetti, and corner pyro. Maintain consistent character identity and matching ring attire throughout. Emphasize realistic sweat, impact physics, crowd energy, and dramatic slow motion on key moves. End with a rising crane shot capturing the victor’s pose. Output should feel like a live WWE broadcast—photorealistic, high contrast, 60fps.
+制作一段超写实、电影感的15秒连续镜头，展现一场WWE风格的冠军决赛，由两位体能出众的日本女摔跤手在座无虚席的体育馆中对决。遵循精确的比赛进程：疲惫对峙→爆发式晾衣绳攻击→降服技缠斗→DDT反击→近身压制→德式背摔→上绳月面宙返终结技→干净利落的三秒压制→冠军庆祝（腰带、彩纸、角落烟火）。保持角色形象一致，并匹配擂台服装。强调真实的汗水、冲击物理效果、观众能量，以及关键动作的戏剧性慢动作。结尾以升起的吊臂镜头捕捉胜利者的姿态。输出应如同WWE直播现场——照片级真实、高对比度、60帧每秒。
 ```
 
 #### 📌 Details
@@ -208,13 +209,13 @@ Create a hyper-realistic, cinematic 15-second continuous sequence depicting a WW
 
 ---
 
-### 🎬 Luxury Beauty Cream Ad
+### 🎬 15秒奢华美容霜广告
 <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02749.jpg" width="480" alt="SD2_02749"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/luxury-beauty-cream-ad-SD2_02749">🌐 View on Prompt Hub</a>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/luxury-beauty-cream-ad-SD2_02749">🌐 在线观看</a>
 
 #### 📝 Prompt
 ```
-Seedance 2.0 – 15 Beauty Cream Advertisement Video Prompt Create a 15-second vertical (9:16) ultra-realistic cinematic advertisement video for a beauty cream. Scene: A young woman in a clean, modern vanity or soft studio bathroom setting. The environment is bright, elegant, and minimal with soft pastel tones and a luxury skincare vibe. Style: High-end skincare commercial, ultra-realistic, smooth cinematic lighting, soft focus, premium beauty brand aesthetic. Sequence (quick cuts): 0–4s: Close-up of woman’s clean, glowing skin under soft natural light 4–8s: She gently applies beauty cream on her face with smooth motion 8–12s: Skin appears more radiant and fresh, confident smile in mirror 12–15s: Hero shot of product jar on clean surface with glowing background Voiceover (soft, calming tone): “Reveal your natural glow… with daily care that feels pure and light.” Lighting: Soft diffused white light, gentle highlights on skin, warm and clean tone. Music: Soft relaxing beauty ad music, light piano with airy ambient sounds. Mood: Fresh, elegant, confident, skincare luxury feel. Ending Text (optional): “Glow starts with care.”
+Seedance 2.0 – 15秒美容霜广告视频提示 制作一段15秒竖屏（9:16）超写实电影级美容霜广告视频。 场景：一位年轻女性身处整洁现代的梳妆台或柔和工作室风格的浴室中。环境明亮优雅、简约，采用柔和粉彩色调，营造奢华护肤氛围。 风格：高端护肤品广告，超写实，流畅的电影级布光，柔焦效果，高端美妆品牌美学。 快速剪辑序列： 0–4秒：特写女性在柔和自然光下洁净透亮的肌肤 4–8秒：她以流畅动作将美容霜轻柔涂抹于面部 8–12秒：肌肤更显光彩焕新，镜中浮现自信微笑 12–15秒：产品罐置于洁净台面的主角镜头，背景泛光 旁白（轻柔舒缓语调）： “唤醒你的自然光泽……以纯净轻盈的日常呵护。” 灯光：柔和漫射白光，肌肤上呈现细腻高光，温暖洁净色调。 音乐：轻柔舒缓的美容广告配乐，轻钢琴搭配空灵环境音。 氛围：清新、优雅、自信，奢华护肤质感。 结尾文字（可选）： “光泽始于呵护。”
 ```
 
 #### 📌 Details
@@ -222,13 +223,13 @@ Seedance 2.0 – 15 Beauty Cream Advertisement Video Prompt Create a 15-second v
 
 ---
 
-### 🎬 Grocery Aisle Memories
+### 🎬 独行杂货店
 <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02748.jpg" width="480" alt="SD2_02748"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/grocery-aisle-memories-SD2_02748">🌐 View on Prompt Hub</a>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/grocery-aisle-memories-SD2_02748">🌐 在线观看</a>
 
 #### 📝 Prompt
 ```
-Create a 15-second cinematic short video with a unique emotional storyline. Scene starts inside a softly lit modern grocery store. A young woman (mid-20s, natural look, casual outfit) walks slowly through the aisles, picking up everyday items like milk, bread, and fruits. Camera follows her in smooth tracking shots, focusing on small details—her hands brushing over products, her thoughtful expressions. Mid-scene (5–10 sec): She pauses while holding a chocolate bar, a subtle flashback overlay appears—quick soft-focus memory of her laughing with someone special (suggesting nostalgia or a past relationship). Final scene (10–15 sec): She gently puts the chocolate back, gives a soft, emotional smile, and walks toward the checkout. Camera lingers as she exits the store alone, but calm and stronger. Style: cinematic, shallow depth of field, warm lighting, soft background music, emotional tone Camera: slow motion, close-ups + smooth tracking shots Mood: nostalgic, peaceful, slightly emotional Quality: ultra-realistic, 4K, film-like color grading
+制作一段15秒的电影级短片，讲述一个独特的情感故事。开场场景设在一家灯光柔和的现代杂货店内。一位年轻女性（25岁左右，自然妆容，休闲装扮）缓步穿过货架间，拿起牛奶、面包、水果等日常用品。镜头以平滑的跟拍方式跟随她，聚焦于细微之处——她手指轻抚商品的动作，若有所思的神情。中段（5-10秒）：她拿起一块巧克力时突然停住，画面叠化出柔焦的闪回片段——她与某个特别的人欢笑的记忆（暗示怀旧或过往恋情）。结尾（10-15秒）：她轻轻将巧克力放回原处，露出温柔而感动的微笑，走向收银台。镜头停留片刻，目送她独自离开商店，虽形单影只却平静而坚强。风格：电影质感，浅景深，暖色调灯光，轻柔背景音乐，情感基调。镜头：慢动作，特写+平滑跟拍。氛围：怀旧，平和，略带感伤。画质：超写实，4K，胶片调色。
 ```
 
 #### 📌 Details
@@ -236,13 +237,13 @@ Create a 15-second cinematic short video with a unique emotional storyline. Scen
 
 ---
 
-### 🎬 Royal Princess Ballroom Dance Sequence
+### 🎬 公主月下舞殿华章
 <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02747.jpg" width="480" alt="SD2_02747"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/royal-princess-ballroom-dance-sequence-SD2_02747">🌐 View on Prompt Hub</a>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/royal-princess-ballroom-dance-sequence-SD2_02747">🌐 在线观看</a>
 
 #### 📝 Prompt
 ```
-Create a cinematic fantasy movie sequence based on this 16-panel storyboard poster. A young royal princess is performing an elegant ballroom dance inside a luxurious European palace ballroom at night. Warm golden chandelier light and candlelight glow fill the room, with soft moonlight coming through tall arched windows. The princess wears a royal blue luxury gown with a layered flowing skirt, sparkling embroidery, a crown/tiara, and elegant jewelry. Animate the dance as one continuous sequence: she enters gracefully, opens her arms, begins slow turns, side-steps smoothly, prepares for spinning, then performs faster spins with her skirt expanding dramatically, pauses under chandelier light, performs a low curtsy sweep, rises with a back-arch motion, then reaches the climax with a grand whirl spin, slowly recovers, turns toward the moonlit window, gives a storytelling back glance, and finishes with a powerful final freeze pose. Camera style: cinematic tracking shots, smooth slow-motion moments, soft depth of field, realistic fabric physics, natural hair movement, subtle sparkle reflections on jewelry, elegant motion blur during spins.
+根据这幅16格故事板海报，创作一段电影般的奇幻舞蹈场景。深夜，一位年轻的皇室公主在奢华的欧式宫殿舞厅中优雅起舞。温暖的金色吊灯光芒与烛光交织，柔和的月光透过高大的拱形窗洒入室内。公主身着皇家蓝华服，裙摆层叠飘逸，缀满闪耀刺绣，头戴冠冕，佩戴精致珠宝。将舞蹈演绎为连贯的序列：她优雅入场，舒展双臂，开始缓慢旋转，流畅侧步，为回旋蓄势，继而加速旋转，裙摆如花绽放；在吊灯光晕下稍作停顿，完成低身屈膝扫掠，起身时后仰成弓形，最终以华丽的大回旋推向高潮；缓缓收势，转向月光笼罩的窗边，回眸一瞥诉说故事，定格于充满力量的最终姿态。镜头风格：电影级追踪运镜，流畅的慢动作瞬间，柔和的景深效果，逼真的布料物理，自然的发丝飘动，珠宝上微光闪烁，旋转时优雅的动态模糊。
 ```
 
 #### 📌 Details
@@ -250,13 +251,13 @@ Create a cinematic fantasy movie sequence based on this 16-panel storyboard post
 
 ---
 
-### 🎬 Neon Heist Chase Escape
+### 🎬 银行劫案惊魂逃亡
 <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02746.jpg" width="480" alt="SD2_02746"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/neon-heist-chase-escape-SD2_02746">🌐 View on Prompt Hub</a>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/neon-heist-chase-escape-SD2_02746">🌐 在线观看</a>
 
 #### 📝 Prompt
 ```
-Style: Cinematic thriller, handheld camera energy, high contrast lighting, teal-orange grading, shallow depth of field, fast rhythmic cuts, realistic motion blur. 0–2s — The Heist Breaks Loose Interior bank vault corridor. Red alarm lights flashing violently. Security doors slam open. Sirens begin blaring in the distance. Close-up: gloved hand grabbing a duffel bag stuffed with cash. 2–5s — Escape Initiated Masked runner bursts through shattered glass doors. Slow-motion glass fragments flying outward, reflecting neon city lights. Camera shakes slightly as the runner hits the street. 5–8s — Street Chaos Wide shot of a crowded city market street. People scatter in confusion. The runner pushes through pedestrians, weaving fast. Police sirens grow louder, red-blue lights washing over buildings. 8–11s — Chase Intensifies Low-angle tracking shot of the runner sprinting across traffic. Cars brake suddenly. A police vehicle skids into frame. Quick cuts: boots hitting pavement, breathing heavy, cash bag swinging. 11–13s — Near Capture Moment Runner slips through a narrow alley. A hand almost grabs them from behind. Neon signs flicker above, rain starts lightly, adding reflection on wet ground. 13–15s — Escape Beat Cliffhanger Runner leaps over a barrier and disappears into a subway entrance. Camera lingers on flashing sirens flooding the alley, then cuts to black mid-siren peak.
+风格：电影级惊悚片，手持摄影的动感，高对比度布光，青橙色调，浅景深，快节奏剪辑，逼真的动态模糊。0-2秒——劫案爆发。银行金库走廊内景。红色警报灯剧烈闪烁。安全门猛然弹开。远处警笛声开始鸣响。特写：戴手套的手抓起装满现金的行李袋。2-5秒——开始逃亡。蒙面劫匪撞碎玻璃门冲出。慢镜头中玻璃碎片向外飞溅，映出霓虹城市灯光。劫匪冲上街道时镜头轻微晃动。5-8秒——街头混乱。拥挤的城市市场街道广角镜头。人群惊慌四散。劫匪推开行人，快速穿梭。警笛声渐响，红蓝警灯扫过建筑。8-11秒——追捕升级。低角度跟拍镜头：劫匪横穿车流。车辆急刹。警车侧滑入画。快速切换：靴子踏击路面、急促喘息、甩动的钱袋。11-13秒——险些被捕。劫匪闪入狭窄小巷。一只手几乎从背后抓住他们。上方霓虹灯牌闪烁，细雨初降，湿漉漉的地面泛起反光。13-15秒——逃亡悬念。劫匪跃过护栏消失在地铁入口。镜头停留于涌入小巷的闪烁警灯，在警笛声最高潮时切至黑屏。
 ```
 
 #### 📌 Details
@@ -264,13 +265,13 @@ Style: Cinematic thriller, handheld camera energy, high contrast lighting, teal-
 
 ---
 
-### 🎬 Gourmet Burger ASMR Slow Motion Hook
+### 🎬 芝士汉堡拉丝诱惑
 <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02745.jpg" width="480" alt="SD2_02745"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/gourmet-burger-asmr-slow-motion-hook-SD2_02745">🌐 View on Prompt Hub</a>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/gourmet-burger-asmr-slow-motion-hook-SD2_02745">🌐 在线观看</a>
 
 #### 📝 Prompt
 ```
-0–3s (VIRAL HOOK): Extreme macro close-up of a gourmet cheeseburger being lifted slowly. Melted cheese stretches dramatically between bun and patty—thick, glossy, elastic strands. Juices glisten on the patty, steam rises naturally. Slow-motion effect for maximum satisfaction. First frame is slightly grainy/low-quality, then subtly sharpens (to support your before/after idea). 3–6s: Cut to the influencer holding the burger, shot in natural handheld UGC style (phone camera feel). She reacts with excitement: slight smile, raised eyebrows. Soft dialogue or lip-sync: “Okay… this looks insane.” 6–10s: Handheld vlog-style shot. She takes a big bite—cheese stretches again, sauce slightly drips. Real, unfiltered reaction: eyes widen, she nods, subtle laugh. Natural motion shake for authenticity. 10–13s: Extreme close-up ASMR shots: Crispy toasted bun texture Juicy patty fibers Melted cheese pull + sauce drip Background fully blurred, premium food focus. 13–15s (VIRAL END FRAME): She looks into the camera, smiles confidently, gives a subtle thumbs-up. Freeze frame on the burger with a glowing highlight + slight zoom-in punch. Final frame is ultra-sharp 4K HDR (clear “after” quality moment). 🎥 Visual Style (Enhanced) Hyper-realistic burger textures (juicy patty, molten cheese, glossy bun) UGC handheld authenticity + cinematic polish First 5 sec slightly soft/low quality → transitions into crisp 4K clarity Warm cozy lighting + neon reflections Shallow depth of field, subject isolation Natural motion blur + micro camera shake 🔊 Audio Style Trending TikTok food vlog sound / chill lo-fi beat Strong ASMR layer: bite crunch, sauce drip, cheese stretch Subtle bass hit exactly at first cheese pull (hook moment) Audio clarity improves after 5 seconds (matches video quality jump)
+0–3秒（病毒式开场）：极致微距特写，一只美食芝士汉堡被缓缓抬起。融化的芝士在面包与肉饼之间拉出浓稠、油亮、富有弹性的长丝。肉饼上汁水闪烁，热气自然升腾。慢动作效果带来极致满足感。首帧略带颗粒感/低画质，随后逐渐锐化（以强化你的“前后对比”创意）。3–6秒：切至博主手持汉堡的镜头，采用自然手持UGC风格（手机拍摄感）。她露出兴奋反应：微微一笑，眉毛上扬。轻柔对话或口型同步：“好吧……这看起来太疯狂了。”6–10秒：手持Vlog风格镜头。她咬下一大口——芝士再次拉丝，酱汁微微滴落。真实无滤镜的反应：眼睛睁大，点头，轻声笑。自然的画面抖动增强真实感。10–13秒：极致微距ASMR镜头：酥脆烤面包的纹理、多汁肉饼的纤维、融化芝士拉丝+酱汁滴落。背景完全虚化，聚焦高级美食。13–15秒（病毒式结尾）：她看向镜头，自信微笑，轻轻竖起大拇指。汉堡定格画面，带有发光高光+轻微放大冲击。最终帧为超清晰4K HDR（清晰的“之后”画质时刻）。🎥 视觉风格（增强版）：超写实汉堡纹理（多汁肉饼、融化芝士、油亮面包）；UGC手持真实感+电影级精致；前5秒略软/低画质→过渡至清晰4K画质；温暖舒适灯光+霓虹反射；浅景深，主体突出；自然运动模糊+微相机抖动。🔊 音频风格：热门TikTok美食Vlog音效/舒缓低保真节拍；强烈ASMR层：咬碎声、酱汁滴落声、芝士拉丝声；首次芝士拉丝（钩子时刻）时加入轻微低音冲击；5秒后音频清晰度提升（与画质提升同步）
 ```
 
 #### 📌 Details
@@ -278,13 +279,13 @@ Style: Cinematic thriller, handheld camera energy, high contrast lighting, teal-
 
 ---
 
-### 🎬 Faceless Mannequins Storyboard Composition
+### 🎬 主角与抽象构图
 <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02744.jpg" width="480" alt="SD2_02744"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/faceless-mannequins-storyboard-composition-SD2_02744">🌐 View on Prompt Hub</a>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/faceless-mannequins-storyboard-composition-SD2_02744">🌐 在线观看</a>
 
 #### 📝 Prompt
 ```
-Read IMG_1 as the sole main character reference. Read IMG_2 as an abstract storyboard reference. The faceless mannequins in IMG_2 are not characters but symbols indicating position, pose, and composition.
+将IMG_1作为唯一的主角角色参考。将IMG_2作为抽象故事板参考。IMG_2中的无脸模特并非角色，而是表示位置、姿势和构图的符号。
 ```
 
 #### 📌 Details
@@ -292,13 +293,13 @@ Read IMG_1 as the sole main character reference. Read IMG_2 as an abstract story
 
 ---
 
-### 🎬 Samurai Duel at Dusk
+### 🎬 武士对决：风中的斩击
 <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02743.jpg" width="480" alt="SD2_02743"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/samurai-duel-at-dusk-SD2_02743">🌐 View on Prompt Hub</a>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/samurai-duel-at-dusk-SD2_02743">🌐 在线观看</a>
 
 #### 📝 Prompt
 ```
-Style: Cinematic samurai drama, ultra-realistic, muted color palette, natural dusk lighting, slow-motion emphasis, wind-swept atmosphere, shallow depth of field, minimal dialogue, emotional tension, Kurosawa-inspired framing. 0–3s — Silent Approach Wide establishing shot of a mist-covered field at dusk. Two samurai stand far apart, perfectly still. Tall grass sways in heavy wind. A distant temple silhouette fades into haze. Absolute silence—only wind ambience. 3–6s — The Slow Walk Begins Both samurai begin walking toward each other. Alternating low-angle tracking shots. Close-ups of calm, focused eyes. Subtle hand movement near katana hilt. Controlled breathing, tension building with every step. 6–9s — Rising Tension Camera slowly orbits as distance closes. Fabric and hair ripple in stronger wind. Footsteps sink into wet earth. No music, no dialogue—only rhythmic steps and rising pressure in still air. 9–11s — Final Standoff They stop at blade distance. Extreme close-up on hands tightening around sword handles. A single falling leaf drifts between them in slow motion. Time feels suspended. 11–13s — Draw and Strike Instant cut to ultra-slow motion: both draw katana simultaneously. Sharp metallic ring echoes. One decisive crossing slash mid-air. Sparks and motion blur freeze the impact moment. 13–15s — Aftermath Silence One samurai remains standing. The other collapses out of frame. Wind continues through empty field. Camera holds on stillness, lingering on drifting grass, then fades to black.
+风格：电影级武士剧，超写实，低饱和色调，自然黄昏光线，慢动作强调，风拂过境的氛围，浅景深，极简对白，情感张力，黑泽明式构图。0-3秒——无声逼近 黄昏时分，雾气笼罩的田野广角定场镜头。两名武士相隔甚远，纹丝不动。高草在疾风中摇曳。远处寺庙的轮廓隐入薄雾。万籁俱寂——唯有风声。3-6秒——缓步启程 两名武士开始相向而行。交替的低角度跟拍镜头。平静而专注的眼神特写。手在刀柄附近微动。呼吸克制，步步紧逼，张力渐升。6-9秒——张力攀升 距离缩短，镜头缓缓环绕。衣袂与发丝在更猛烈的风中翻飞。脚步陷入湿土。无音乐，无对白——只有节奏分明的脚步声与凝滞空气中不断攀升的压力。9-11秒——最终对峙 他们在刀锋可及之处停步。手紧握刀柄的极端特写。一片落叶在两人之间缓缓飘落，慢动作中时间仿佛凝固。11-13秒——拔刀与斩击 瞬间切入超慢镜头：两人同时拔刀。尖锐的金属铮鸣回荡。半空中一次决定性的交错斩击。火花与动态模糊定格在碰撞瞬间。13-15秒——余寂 一名武士屹立不倒。另一人倒出画外。风继续吹过空旷的田野。镜头定格于静止，久久凝视飘摇的草叶，随后渐隐至黑。
 ```
 
 #### 📌 Details
@@ -306,13 +307,13 @@ Style: Cinematic samurai drama, ultra-realistic, muted color palette, natural du
 
 ---
 
-### 🎬 Alien Bus Attack in Rainy Night
+### 🎬 公交惊现外星生物
 <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02742.jpg" width="480" alt="SD2_02742"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/alien-bus-attack-rainy-night-SD2_02742">🌐 View on Prompt Hub</a>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/alien-bus-attack-rainy-night-SD2_02742">🌐 在线观看</a>
 
 #### 📝 Prompt
 ```
-A packed city bus tears through rainy streets at night. Suddenly the entire floor dents upward beneath passengers’ feet with a metallic BOOM. People scream as scraping sounds race underneath the bus at impossible speed. Sparks blast past the windows. A passenger looks down outside — an alien creature is sprinting upside down beneath the chassis, weaving between axles. The driver slams the brakes. The floor rips open from below as the creature bursts upward into the aisle. Shot 1 (0s–2s) — THE HOOK Inside packed moving bus. The floor suddenly BULGES upward violently beneath standing passengers, throwing people sideways instantly. Metal groans loudly. A second impact hits immediately after. Sparks streak past the windows. Shot 2 (2s–5s) Bus swerves hard through traffic. Passengers scream and grab rails. LOUD metallic scraping races from front to back underneath the vehicle like something huge is crawling at extreme speed below them. The entire bus shakes rhythmically with heavy impacts. Shot 3 (5s–8s) A terrified passenger leans toward the side window. Outside below: an alien creature is hanging upside down beneath the moving bus, sprinting between the axles while gripping metal with elongated limbs. Its glowing eyes snap upward toward the passenger instantly. Shot 4 (8s–11s) Driver slams brakes. Everyone lurches forward violently. The creature SMASHES upward repeatedly from below. Floor panels begin tearing open one by one down the aisle toward camera like a zipper exploding upward. Passengers scramble over seats in panic. Shot 5 (11s–15s) — PAYOFF The floor ERUPTS. The creature launches fully into the aisle in a shower of sparks and twisted metal, grabbing a screaming passenger mid-air. Bus crashes sideways into a divider. Final frame: through the shattered windshield, the bus skids while the creature crawls across the ceiling inside the overturned bus toward camera.
+一辆拥挤的城市公交车在雨夜疾驰。突然，乘客脚下的整个地板伴随着金属的巨响向上隆起。刺耳的刮擦声以不可思议的速度在车底穿梭，人们尖叫声四起。火花从车窗旁飞溅而过。一名乘客低头望向窗外——一个外星生物正倒挂在底盘下疾速奔跑，在车轴间灵活穿梭。司机猛踩刹车。地板从下方撕裂开来，那生物猛地冲进过道。 镜头1（0-2秒）——悬念 在拥挤行驶的公交车内。站立乘客脚下的地板突然剧烈向上隆起，瞬间将人掀向两侧。金属发出刺耳的呻吟。紧接着第二次撞击袭来。火花从车窗旁飞掠而过。 镜头2（2-5秒） 公交车在车流中剧烈转向。乘客尖叫着抓住扶手。刺耳的金属刮擦声从车头到车尾在车底急速移动，仿佛有庞然大物在下方以极限速度爬行。整辆车随着沉重撞击有节奏地摇晃。 镜头3（5-8秒） 一名惊恐的乘客探向侧窗。窗外下方：一个外星生物倒挂在行驶的公交车底，用修长的肢体抓住金属，在车轴间疾速穿梭。它发光的眼睛瞬间向上盯住乘客。 镜头4（8-11秒） 司机猛踩刹车。所有人向前剧烈前倾。那生物从下方反复向上猛撞。地板一块接一块撕裂开来，沿着过道朝镜头方向如拉链般向上爆裂。乘客们惊慌地翻越座椅逃窜。 镜头5（11-15秒）——高潮 地板炸裂。那生物在火花与扭曲金属的暴雨中完全冲进过道，在半空中抓住一名尖叫的乘客。公交车侧向撞上隔离带。最终画面：透过碎裂的挡风玻璃，公交车滑行着，而那生物在侧翻的车厢内沿着天花板朝镜头爬来。
 ```
 
 #### 📌 Details
@@ -320,13 +321,13 @@ A packed city bus tears through rainy streets at night. Suddenly the entire floo
 
 ---
 
-### 🎬 Ancient Forest Apocalyptic Fairy Demon Clash
+### 🎬 光明与阴影的末日之战
 <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02741.jpg" width="480" alt="SD2_02741"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/ancient-forest-apocalyptic-fairy-demon-clash-SD2_02741">🌐 View on Prompt Hub</a>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/ancient-forest-apocalyptic-fairy-demon-clash-SD2_02741">🌐 在线观看</a>
 
 #### 📝 Prompt
 ```
-A vast ancient forest, towering trees thousands of years old, their bark carved with glowing runes, mist curling through the roots like living creatures. Dead silence. Then — a crack of golden light splits the sky. Thick storm clouds part and a blinding radiance pours through as thousands of fairies descend in formation, wings shimmering like stained glass catching sunlight, armor forged from moonstone and frozen starlight, spears tipped with pure white flame. They move like a murmuration — fluid, synchronized, devastating. Simultaneously — the forest floor fractures. Deep crimson light bleeds through the cracks as the earth tears itself open. A demon horde erupts upward in a volcanic surge — towering horned beasts, scaled warriors with molten eyes, dark wings like torn leather blocking out what remains of the sky, war cries shaking the ancient trees to their roots. The two forces lock eyes across the forest canopy for one suspended breath — complete silence — then collide with catastrophic force. Light meets shadow. Gold meets red. The ancient trees tremble and splinter. Magic detonates in every direction. The forest floor ignites. The sky tears open further. Camera sweeps wide in a breathtaking arc — the full scale of the collision visible — thousands deep on both sides — an apocalyptic clash that has been building for a thousand years finally unleashed in one single devastating moment. Cinematic. Mythic. Earth-shattering. SCENE BREAKDOWN: TimingScene 10–2sEstablishing wide shot ancient rune-carved forest, dead silence, mist curling through roots 22–4sSky cracks open golden light floods through storm clouds fairy army descends in glowing formation 34–6sClose-up fairy warriors in moonstone armor, shimmering wings, white flame spears, moving in unison 46–8sForest floor fractures crimson light bleeds through demon horde erupts violently from the earth 58–10sClose-up towering horned demons, molten eyes, torn leather wings, war cries shaking the trees 610–12sBoth armies lock eyes across the canopy one suspended heartbeat of pure silence 712–14sCatastrophic collision light meets shadow gold meets red magic detonates in every direction 814–15ssweeping wide arc full scale of both armies clashing forest igniting sky tearing open
+一片广袤的远古森林，参天古树已有千年树龄，树皮上刻满发光的符文，雾气如活物般在树根间蜿蜒。死寂。突然——一道金色光芒撕裂天空。厚重的风暴云层向两侧分开，耀眼的光芒倾泻而下，成千上万的仙女列队降临，翅膀如彩色玻璃捕捉阳光般闪烁，铠甲由月光石和冻结星光锻造，长矛尖端燃烧着纯白火焰。她们如椋鸟群般移动——流畅、同步、势不可挡。与此同时——森林地面裂开。深红光芒从裂缝中渗出，大地自行撕裂。恶魔大军如火山喷发般涌出——高耸的角兽、熔岩之眼的鳞甲战士、如撕裂皮革般的暗黑翅膀遮蔽了残存的天空，战吼声撼动古树根基。两军隔着树冠对视，悬停一次呼吸——彻底寂静——然后以毁灭性的力量相撞。光明与阴影相遇。金色与红色碰撞。古树颤抖碎裂。魔法向四面八方引爆。森林地面燃起烈焰。天空进一步撕裂。镜头以惊心动魄的弧线横扫——展现碰撞的全貌——双方纵深数千——一场酝酿千年的末日之战，终于在这一刻以毁灭性的爆发释放。电影感。神话感。天崩地裂。场景分解：时间 场景 10–2秒 建立广角镜头：远古符文森林，死寂，雾气在树根间蜿蜒 22–4秒 天空裂开，金色光芒涌入风暴云层，仙女大军以发光阵型降临 34–6秒 特写：月光石铠甲的仙女战士，闪烁翅膀，白色火焰长矛，整齐划一 46–8秒 森林地面裂开，深红光芒渗出，恶魔大军从地底猛烈喷发 58–10秒 特写：高耸角兽，熔岩之眼，撕裂皮革翅膀，战吼撼动树木 610–12秒 两军隔树冠对视，悬停一次心跳的纯粹寂静 712–14秒 灾难性碰撞：光明与阴影相遇，金色与红色碰撞，魔法向四面八方引爆 814–15秒 广角弧线横扫：两军全面交战，森林燃起，天空撕裂
 ```
 
 #### 📌 Details
@@ -334,13 +335,13 @@ A vast ancient forest, towering trees thousands of years old, their bark carved 
 
 ---
 
-### 🎬 Pastel Floral Dress Through Italy
+### 🎬 碎花裙女孩的意大利之旅
 <img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02740.jpg" width="480" alt="SD2_02740"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/pastel-floral-dress-through-italy-SD2_02740">🌐 View on Prompt Hub</a>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/pastel-floral-dress-through-italy-SD2_02740">🌐 在线观看</a>
 
 #### 📝 Prompt
 ```
-0–4s Soft morning light spills over Venice. A young girl steps out of a narrow alley wearing a pastel cotton floral dress, light and breathable, flowing gently with every step. The canals shimmer as gondolas pass quietly in the background. 4–8s She travels through the Italian countryside by train. In her same pastel floral cotton dress, now layered with a light cardigan, she gazes out the window. Rolling hills and vineyards blur into a warm, dreamy landscape. 8–12s Florence welcomes her with golden light. She walks through historic streets in her soft cotton floral dress, pastel tones blending with the city’s earthy architecture. Her outfit moves naturally with the breeze as she pauses in front of the cathedral. 12–16s At sunset in Rome, she stands near ancient ruins, still in her elegant pastel floral dress. The fabric catches the warm orange glow of the sky. She smiles softly as the city lights begin to glow, creating a peaceful cinematic ending.
+0–4秒 威尼斯清晨的柔光洒落。一位年轻女孩从狭窄小巷中走出，身着浅色棉质碎花连衣裙，轻盈透气，裙摆随步伐轻柔摆动。运河波光粼粼，贡多拉静静划过背景。4–8秒 她乘火车穿越意大利乡间。仍穿着那件浅色棉质碎花裙，外搭轻薄开衫，凝视窗外。起伏的山丘与葡萄园化作温暖梦幻的风景。8–12秒 佛罗伦萨以金色光芒迎接她。她身着柔软棉质碎花裙漫步历史街道，浅色系与城市土黄色建筑相映成趣。微风拂过裙摆，她在教堂前驻足。12–16秒 罗马日落时分，她伫立古遗迹旁，依然穿着那件优雅的浅色碎花裙。布料映着天空温暖的橘色余晖。城市灯火渐亮，她浅笑嫣然，定格成宁静的电影画面。
 ```
 
 #### 📌 Details
