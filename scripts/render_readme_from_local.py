@@ -4,7 +4,7 @@ import re
 from datetime import datetime
 
 ROOT_METADATA = "metadata.jsonl"
-README_EN = "README.MD"
+README_EN = "README.md"
 README_ZH = "README_zh.md"
 
 MARKER_START = "<!-- STATS_START -->"

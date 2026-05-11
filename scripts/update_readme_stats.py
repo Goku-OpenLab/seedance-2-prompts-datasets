@@ -11,7 +11,7 @@ CDN_BASE = "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datas
 USER_AGENT = "Mozilla/5.0 (compatible; GokuOpenLabBot/1.0; +https://github.com/Goku-OpenLab/seedance-2-prompts-datasets)"
 
 ROOT_METADATA = "metadata.jsonl"
-README_EN = "README.MD"
+README_EN = "README.md"
 README_ZH = "README_zh.md"
 
 MARKER_START = "<!-- STATS_START -->"
