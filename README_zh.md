@@ -13,9 +13,13 @@
 **下载完整数据集体验：**  
 [https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets)
 
+![huggingface](img\huggingface.jpg)
+
 ## 🌐 在线观看体验
 无需登录，无广告，极速响应。  
 👉 **[在线观看入口](https://prompthub.gokuscraper.com/)**
+
+![website](img\website.jpg)
 
 ## 📖 项目介绍
 **seedance-2-prompts-datasets** 由 **GokuOpenLab** 发起，是一个面向开发者与研究者的 Prompt 数据基础设施项目。

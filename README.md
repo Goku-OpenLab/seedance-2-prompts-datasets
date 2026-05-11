@@ -13,9 +13,13 @@ Due to GitHub's limitations with large file storage, the full dataset is hosted 
 **Download the full dataset here:**  
 [https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets)
 
+![huggingface](img\huggingface.jpg)
+
 ## 🌐 Online Viewer
 No login required, lighting-fast response.  
 👉 **[View Online](https://prompthub.gokuscraper.com/)**
+
+![website](img\website.jpg)
 
 ## 📖 Introduction
 Launched by **GokuOpenLab**, **seedance-2-prompts-datasets** is a prompt data infrastructure project created for developers and researchers.
