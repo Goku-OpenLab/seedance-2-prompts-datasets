@@ -133,224 +133,87 @@ Welcome to Goku Prompt Hub!
 <!-- STATS_START -->
 
 ## 📊 Statistics
-- Total Prompts: **2898**
-- Updated Today (UTC 2026-05-14): **163**
+- Total Prompts: **4194**
+- Updated Today (UTC 2026-07-01): **38**
 
 ## 🎬 Today's Updates
-### 🎬 Turquoise Dream Catwalk Fantasy
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02917.jpg" width="480" alt="SD2_02917"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/turquoise-dream-catwalk-fantasy-SD2_02917">🌐 Watch Online</a>
+### 🎬 Sketchbook Worlds: Imagination Unleashed
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04213.jpg" width="480" alt="SD2_04213"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/sketchbook-worlds-imagination-SD2_04213">🌐 Watch Online</a>
 
 #### 📝 Prompt
 ```
-Create a luxurious 15-second cinematic fantasy video in vertical 9:16. A glamorous Western woman with long dark curly hair, glowing skin, and elegant makeup wears a shimmering neon turquoise sequined mini dress. She holds a fluffy Persian cat with emerald-green eyes and a matching turquoise jeweled bow. Both are posed inside an ornate turquoise crystal picture frame against a dark teal background with sparkling bokeh and floating glitter. 0–3s: Static portrait like a living painting. 3–6s: The painting comes to life—she smiles, strokes the cat, and the cat blinks and looks around. 6–9s: Turquoise particles burst as she steps out of the frame with a dramatic hair flip. 9–12s: Quick fashion cut scenes: twirl, close-up of shimmering dress, playful cat interaction. 12–15s: Final runway-style hero pose with swirling sparkles and the glowing frame behind. Style: photorealistic, magical luxury aesthetic, high-fashion editorial, cinematic lighting, realistic fur and fabric textures, 35mm film look, ultra-detailed 8K.
+Single uninterrupted cinematic shot begins inside a cozy child's bedroom during golden afternoon light. Sunbeams stream through the window, illuminating floating dust particles. Colored pencils, brushes, and scattered sketchbooks cover a wooden desk. The atmosphere feels warm, peaceful, and filled with creative energy. The camera slowly glides toward an open sketchbook. A child finishes drawing a simple green tree with a colored pencil. As the final stroke touches the paper, the ink begins glowing softly. Leaves gently rustle although there is no wind. Tiny particles of light rise from the page. Without any cut, the camera dives directly into the drawing. The flat paper transforms seamlessly into a vast three-dimensional forest. The camera flies between enormous ancient trees covered in moss. Shafts of sunlight filter through the canopy while birds soar overhead. Butterflies drift naturally through the air. Every leaf moves realistically in the breeze. The transition from paper to reality is completely seamless. The child draws a blue river. Instantly the forest floor opens into a crystal-clear river flowing through the landscape. The camera follows the rushing water at high speed before bursting through a waterfall into an endless ocean. Waves sparkle under the sunlight while giant whales leap gracefully beside the camera. Schools of colorful fish swim beneath the surface. Everything feels alive and physically believable. The child adds distant mountains. Massive snow-covered peaks rise naturally from the horizon as if the world is creating itself. The camera races through valleys and climbs above the mountains into the clouds. The child sketches a dragon soaring across the page. Golden lines become shimmering scales as a majestic dragon comes to life. Instead of attacking, it flies peacefully beside the camera. The camera circles around the dragon while sunlight reflects across its wings. The dragon glides effortlessly through floating islands suspended above the clouds. The child paints stars across the page. The blue sky slowly transforms into deep space while the floating islands drift among colorful nebulae. Entire galaxies appear in the distance. Planets rotate naturally while glowing comets streak silently across the background. The child places one final glowing star in the corner of the drawing. The camera flies toward it until it fills the entire screen. The star suddenly becomes the reflection inside the child's eye. The camera gently pulls back to reveal the child smiling at the finished drawing. The sketchbook now appears ordinary again, but tiny glowing particles continue drifting upward from its pages, hinting that imagination never truly disappears. The final frame holds on the child's smile as warm sunlight fills the room. Camera: One continuous uninterrupted shot. Smooth floating camera movement. Seamless transitions between every environment. Natural acceleration and graceful curves.
 ```
 
 #### 📌 Details
-- Ratio: `0.56` | Duration: `15.0s`
+- Ratio: `0.57` | Duration: `15.17s`
 
 ---
 
-### 🎬 Warrior Queen Rides Through Dark Realm
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02916.jpg" width="480" alt="SD2_02916"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/warrior-queen-dark-realm-SD2_02916">🌐 Watch Online</a>
+### 🎬 Exploring an Interstellar Space Tree
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04212.jpg" width="480" alt="SD2_04212"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/interstellar-space-tree-SD2_04212">🌐 Watch Online</a>
 
 #### 📝 Prompt
 ```
-A highly cinematic 15-second ultra-realistic fantasy sequence featuring a fearless warrior queen riding a massive black stallion across a war-torn dark realm. The scene opens with a sweeping aerial establishing shot of a ruined kingdom beneath violent storm clouds, flashes of lightning revealing shattered towers, burning siege weapons, drifting ash, and rivers of smoke across the battlefield. Rain and embers swirl through the air as distant explosions illuminate the horizon. The camera transitions into a fast dynamic tracking shot alongside the rider as the horse charges through mud and fire at full speed, its armor rattling while the warrior’s tattered cloak whips violently in the wind. Lightning briefly reflects across her engraved armor and determined expression. Cut into a dramatic low-angle slow-motion sequence where the horse leaps over collapsing debris and flaming wreckage while monstrous shadow creatures emerge from thick smoke around her. A cinematic close-up captures the warrior drawing a glowing enchanted sword infused with supernatural energy, fiery reflections burning within her eyes. The soundtrack intensifies as rapid action shots show her slicing through dark entities while galloping, sparks, magical particles, and explosive energy bursts scattering through the storm with hyper-realistic motion blur and cinematic impact. The final moments pull into an epic aerial pullback shot as she rides deeper into the battlefield surrounded by an advancing army of demonic creatures. Massive lightning strikes crash behind her, illuminating the chaos in dramatic flashes. Volumetric fog, anamorphic lens flares, seamless camera transitions, film-grade color grading, realistic environmental physics, and stunning 4K cinematic realism create an intense dark fantasy atmosphere from beginning to end.
+The camera races along a branch of an impossibly large tree floating in space. The trunk is wider than continents and the branches stretch across entire star systems. Two flight craft weave through glowing leaves the size of cities while rivers of light flow through the bark like veins. The camera follows as they dive through hollow sections of the branch containing ecosystems, floating settlements, and glowing forests. A transparent observation chamber is embedded inside the tree itself, overlooking the flow of luminous sap through the structure. The craft spiral upward through the canopy and emerge above the branches where countless stars hang between the leaves.
 ```
 
 #### 📌 Details
-- Ratio: `1.78` | Duration: `15.23s`
+- Ratio: `1.78` | Duration: `15.13s`
 
 ---
 
-### 🎬 Neon Nightmare: Bowling Alley Horror
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02915.jpg" width="480" alt="SD2_02915"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/neon-nightmare-bowling-alley-horror-SD2_02915">🌐 Watch Online</a>
+### 🎬 Morning Zen Calm
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04211.jpg" width="480" alt="SD2_04211"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/morning-zen-calm-SD2_04211">🌐 Watch Online</a>
 
 #### 📝 Prompt
 ```
-High-tension horror sequence inside a neon-lit bowling alley at night. Retro arcade lighting, reflective bowling lanes, colorful LED glow, realistic practical lighting. Shot 1 (0–3s): A young woman stands frozen near the bowling lane holding a bowling ball. Her breathing becomes uneasy. Around her, she suddenly sees massive insect-like creatures crawling across the bowling alley walls and ceiling—giant spiders moving between neon signs and hanging lights. People nearby appear distorted and unaware. Shot 2 (3–5s): One insect crawls rapidly across the lane toward her. She panics— Then suddenly snaps out of it. Everything is normal again. Just a regular bowling alley. Her friends laugh and wave at her from behind. Shot 3 (5–8s): Still shaken, she slowly steps forward and rolls the bowling ball down the lane. The camera tracks low beside the ball as it spins toward the pins. Shot 4 (8–11s): As the ball nears the pins, she suddenly hears the disturbing insect clicking sound again. Her smile fades. From the empty lane beside hers— something rapidly moves in the darkness. Shot 5 (11–15s): A gigantic insect creature suddenly bursts out from the side lane, skittering violently across the polished floor toward the group. Everyone starts screaming and stumbling backward. The creature launches directly at the woman.
+A morning-related video, cinematic, zen and calm, minimalist and modern, smooth transitions and cuts.
 ```
 
 #### 📌 Details
-- Ratio: `1.33` | Duration: `15.08s`
+- Ratio: `0.56` | Duration: `15.08s`
 
 ---
 
-### 🎬 Laundromat Horror: Creature Attack
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02914.jpg" width="480" alt="SD2_02914"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/laundromat-horror-creature-attack-SD2_02914">🌐 Watch Online</a>
+### 🎬 Cyberpunk Wingsuit Canyon Dive
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04210.jpg" width="480" alt="SD2_04210"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/cyberpunk-wingsuit-dive-SD2_04210">🌐 Watch Online</a>
 
 #### 📝 Prompt
 ```
-High-tension horror sequence inside a brightly lit 24-hour laundromat at night. Rows of industrial washing machines, fluorescent lighting, reflective tiled floor, vending machines humming softly. Sound: washing machine hum, distant traffic outside, phone scrolling taps, slowly interrupted by violent metallic banging. Shot 1 (0–3s): A young woman sits alone in the laundromat scrolling on her phone while several washing machines run behind her. Suddenly— All the machines begin vibrating unnaturally at the same time. Coins rattle. Lights flicker slightly. She slowly looks up. Shot 2 (3–6s): The vibrations intensify into loud metallic BANGS from inside the machines. One machine violently shakes side to side. Then another. Green-tinted water suddenly begins leaking out beneath the doors, spreading across the floor. She stands up nervously: “What… what is happening?” Shot 3 (6–9s): The camera slowly circles around her as more machines begin slamming violently from inside. The laundromat now echoes with distorted screeching noises mixed with the banging. Green liquid floods across the tiles. Shot 4 (9–12s): One washing machine door suddenly POPS open. A grotesque wet creature crawls out. Then another machine opens. Then another. More creatures emerge one by one from different machines around her, dripping green slime onto the floor. She slowly backs away in panic as the camera continues orbiting around her. Shot 5 (12–15s): All the creatures suddenly stop moving. Silence for half a second. Then every creature simultaneously SCREAMS and charges toward her from every direction across the laundromat. She panics and stumbles backward— the creatures leap— cut to black.
+use @[Image 1] as character sheet An ultra-dynamic cyberpunk anime cinematic wingsuit proximity-flying video featuring Jax Storm. Preserve his exact face, glowing cyan cybernetic eyes, messy neon-green hair styled in a sharp undercut, sleek matte-black tech wingsuit with glowing green circuitry lines, integrated helmet with a retractable mirrored visor, carbon-fiber gauntlets, and a pulsing energy core on his chest. Keep perfect character consistency the whole time. Never change his outfit, hair, or face. STYLE: ultra-premium anime feature-film quality, high-energy futuristic sports-anime cinematography, aggressive dynamic action animation, realistic aerodynamics in an stylized anime aesthetic, dramatic twilight lighting, detailed wind and particle simulation, lively expressive facial acting. Absolutely no slow motion at any point. Constant high speed and momentum. SETTING: high-speed flight through a massive futuristic canyon city at dusk, brilliant neon sun flares from towering skyscrapers, fast-rushing holographic advertisements, distant streams of hover-traffic far below, vivid cyberpunk summer atmosphere. FORMAT: one continuous single-take shot, no cuts, no transitions, no montage, one uninterrupted aggressive camera move. HOOK (first 2 seconds): open EXTREMELY close on Jax's face mid-dive from a skyscraper ledge, looking straight into the lens with a fearless, confident smirk, neon hair whipping violently in the wind, helmet visor retracted up. He gives a quick nod toward the camera. Instant speed and energy from frame one. CAMERA: the camera rips backward off his face and whips into a fast 360-degree orbit around his body as he drops. In one unbroken motion, it swings overhead, revealing the massive vertical city drop below, then dives down alongside him. It chases tightly, snapping between front, side, and over-the-shoulder angles, always fast, always handheld-energetic, never static. ACTION FLOW: Jax slams his visor down, snaps his arms out to engage the wingsuit, and slices through the air, accelerating hard as neon clouds blast past. He spreads into a tight tracking glide, weaving dangerously close between two holographic billboards, his body angling sideways across the screen. He throws a cheeky thumbs-up at the camera mid-turn. Then, with a sudden powerful shift in body weight, he pulls up hard—his suit's thrusters fire open with a neon green burst, snapping him upward into a hard, punchy braking maneuver (fast and forceful, NOT slow). The air ripples, his body tenses, and the camera shakes violently with the impact of the deceleration. FINAL MOMENT: now dropping cleanly onto a high-altitude landing platform, the camera swings around to his front. He slides to a halt, the glowing city horizon stretching behind him. He stands up, flips his visor open, grins, and gives a confident two-finger salute toward the lens. The camera pushes in slightly on his smile as the video ends on his triumphant exp
 ```
 
 #### 📌 Details
-- Ratio: `1.33` | Duration: `15.08s`
+- Ratio: `1.78` | Duration: `15.08s`
 
 ---
 
-### 🎬 Neon Rooftop Chase Action Sequence
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02913.jpg" width="480" alt="SD2_02913"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/neon-rooftop-chase-action-sequence-SD2_02913">🌐 Watch Online</a>
+### 🎬 Anime Girl's Pudding Heist
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04209.jpg" width="480" alt="SD2_04209"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/anime-girl-pudding-heist-SD2_04209">🌐 Watch Online</a>
 
 #### 📝 Prompt
 ```
-Ultra-realistic cinematic action sequence, 15 seconds, multiple rapid cuts. A fierce, determined woman in a weathered trench coat sprints across a rain-slicked rooftop at night, 40 stories above a glowing neon city. Shot 1 [0–2s]: Extreme macro close-up of her eye snapping open, iris dilating, red emergency light reflected in pupil, sweat on brow, shallow depth of field, micro handheld tremble. Shot 2 [2–4s]: Ultra-wide low-angle drone shot — she drops from a ventilation shaft, coat billowing in slow motion, thick fog below, city bokeh lights, anamorphic lens flare. Shot 3 [4–6s]: Fast lateral tracking shot, Dutch angle, she pivots and sprints toward the rooftop ledge as three armed operatives appear behind her, shallow focus, operatives blurred in background. Shot 4 [6–8s]: 120fps phantom slow-motion close-up — her bare hand grips a fraying steel cable, knuckles white, bullet spark grazes cable, golden practical light burst, cinematic motion blur. Shot 5 [8–10s]: Aerial vertigo drone plunge — she swings off the ledge into freefall between two glass skyscrapers, city grid glowing below, dramatic pullback reveal, pure cinematic vertigo. Shot 6 [10–12s]: Side-angle medium shot — she crashes onto a glass skylight, spider-web cracks radiate outward in real-time, she rolls and continues without pause, practical shatter effect, dust particles. Shot 7 [12–14s]: Slow push-in over-shoulder shot — she glances back once, jaw set, eyes cold and certain, city fog drifts through frame. Shot 8 [14–15s]: Smash cut to black as she enters a dark stairwell, door slams shut. Photorealistic, 8K, anamorphic 2.39:1 widescreen, teal-orange color grade, crushed blacks, desaturated highlights, practical neon bounce lighting, red emergency practicals, Dolby Vision HDR, rain practical FX throughout, wet surfaces with specular reflections, cinematic sound design.
+The girl from Image1 is used as a reference character. Japanese full-color anime, don't make people different. Maintain a cute and soft atmosphere through costumes, hairstyles, hair color separation, and clothing silhouettes. Fully maintain the character sheet. A refined 15-second cel-look 3D animation. Not realistic live-action, but exaggerated 3D cartoon animation performances. Delicate features, expressive eyes, beautiful contours, soft skin shading, fine costume materials, glowing magical particles, moonlight, cinematic depth of field, dramatic rim lights. The contour lines are modest. Visualize clearly readable facial expressions, eyes, eyebrows, mouth, and poses. The setting is a spacious and luxurious island kitchen. Large island counter, rear storage, refrigerator, hanging lighting, spacious floor, and a deep space. On the central island counter, there is a single premium pudding with a golden caramel gloss. Pudding always appears important as an object. The positions of the kitchen, counter, and pudding are consistent throughout the cut. He doesn't act normally. Make your movements big, fast, sharp, and comical. スナッピーなポーズ・トゥ・ポーズ。 Smooth uniform movement is prohibited. Each action is a pause, a short hold, a sudden acceleration, a big overpass, a recoil, a complete stop, and only the hair and sleeves sway slowly and slowly. Add a short finishing touch at the end of the main pose. The shape of the body and the costume are not ruined. Her expression naturally does not become restrained. Only at important moments, quickly switch the angles of the eyes, eyebrows, mouth, cheeks, gaze, and neck. The facial expressions used include wary narrow eyes, a suspicious face raised with one eyebrow, a big surprised face, a sideways sinister face, a scheming suspicious face, a nervous face puffing out cheeks, a starry eye that discovers something, a look of emotion, and a happy, satisfied expression. Maintain cuteness while making comical and bold expressions. 0.0 to 1.5 seconds: Ultra-wide shot of a spacious island kitchen. Golden pudding is placed on the central island counter. The caramel pudding sparkled. From the shadow of the counter at the edge of the screen, the girl's white hair popped out for a moment, then quickly withdrew. 1.5 to 3.0 seconds: A girl slowly poked her head out from behind the counter. At first, just the eyes. I looked at the pudding with a slender, wary gaze. He raised an eyebrow. The next moment, her eyes opened wide, and her pupils sparkled. Hold your fingertips upright, place your back on the side of the counter, and stop firmly. Only her hair and sleeves swayed with delay. 3.0–4.8 seconds: The first major move. The girl crouched down slightly, hugging her body tightly. The next moment, it explosively shot out sideways from behind the counter. Short afterimages and a modest speedline. Upon arrival, I went a bit too far and hurried back to stick to the side of the counter. Her expression quickly shifts from seriousness, surprise, impatience, to a grin. Finally, it comes to a complete stop. Her hair, sleeves, and hem of her clothes sway heavily and belatedly. 4.8–6.5 seconds: Moved further into the shadows of refrigerators and storage shelves. He stomped his feet at super high speed with his toes, pausing briefly with only his upper body. The next moment, it moves with a 'buon' (a sound). The camera tilts slightly to the side, chasing with a sharp pan. Upon arrival, she lifts one leg and spreads her arms to balance in an exaggerated signature pose. Switch to sideways glances, suspicious faces, and confident faces. 6.5–8.5 seconds: A girl sneaks low to an island counter with pudding. Not a natural walk, but cartoon-style exaggerated sneaking feet. With every step, stop, just move your feet forward, your body catches up all at once, your head goes a bit too far, you bounce back, and you come to a sudden stop. Her gaze quickly switches to the pudding, right, left, behind, and pudding. Sudden braking near the counter. Only her hair and sleeves flowed forward and returned. 8.5–10.5 seconds: The highlight of discovering pudding. A girl poked her head out from under the counter. At first, just the eyes. After checking left and right, I look at the golden pudding. His eyes opened wide, sparkling like stars in them. My eyebrows twitched, and my cheeks turned red. I put both hands on the counter and my body stretched upward for a moment. Switch between an emotionally moved face, a mesmerized face, or a scheming, scheming face. Finally, she stopped completely with a signature pose. 10.5–12.5 seconds: The girl gently lifts the pudding with both hands. Before lifting, shrink slightly and focus. The next moment, she quickly pulled the pudding close to her chest. I pushed a little backward with momentum, then retreated with recoil. Unable to contain my joy, I trembled slightly. Switching between serious faces, surprised faces, smirks, and sparkling faces full of anticipation. The camera suddenly stopped closer. Pudding placed with a spoon. Just before bringing my face close to Pudding, I stopped briefly. 12.5–14.2 seconds: The biggest reaction to tasting the pudding. The moment the girl tasted the pudding with her spoon, she made a strong impact for just one frame. Her shoulders bounce wildly, and her hair and sleeves bounce upward. A cute reaction like a small shockwave. My cheeks turned red, and I pressed my cheek with one hand. Quickly switch to expressions of surprise, emotion, happiness, and satisfaction. 14.2–15.0 seconds: The final signature pose. Holding a plate with pudding in one hand while holding one hand to her cheek. She narrowed her eyes and smiled happily. My body came to a complete halt. Only her hair, sleeves, and hem of her clothes swayed gently in the afterglow. The camera leans in slightly, focusing on her happy expression. Finish with a cute and satisfying finishing piece. The camera uses ultra-wide, sharp zoom, low angle, light Dutch angle, sharp shots, and short cut-ins. When discovering pudding, teleporting, making sudden stops, or tasting it, the camera is brought close. However, the positions of the characters' faces, pudding, and island counters are always clearly visible.
 ```
 
 #### 📌 Details
-- Ratio: `1.77` | Duration: `15.1s`
+- Ratio: `1.78` | Duration: `61.05s`
 
 ---
 
-### 🎬 Alien Home Invasion Horror Chase
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02912.jpg" width="480" alt="SD2_02912"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/alien-home-invasion-horror-chase-SD2_02912">🌐 Watch Online</a>
+### 🎬 Cherry Blossom Farewell
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04208.jpg" width="480" alt="SD2_04208"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/cherry-blossom-farewell-SD2_04208">🌐 Watch Online</a>
 
 #### 📝 Prompt
 ```
-High-tension sci-fi horror sequence inside a modern house at night. Dim warm lighting, long hallways, polished floors, soft rain outside. Large translucent curtains move gently from the wind. Shot 1 (0–3s): A man and woman stand frozen inside the living room. The man grips a handgun tightly, staring toward a massive window covered by thin translucent curtains. Outside the curtain— a huge distorted silhouette slowly moves. Shot 2 (3–5s): Suddenly the curtain EXPLODES inward. A massive alien creature crashes through the glass. The man fires instinctively but gets knocked backward onto the floor. The woman screams and runs. Shot 3 (5–9s): The creature chases her aggressively through the house. She sprints down a corridor, slips around corners, races down stairs while the creature crawls rapidly along walls and ceiling behind her. Furniture gets smashed as it pursues her. Shot 4 (9–12s): She stumbles into a downstairs room— dead end. She falls backward against the wall. The creature slowly crawls closer toward her across the floor, towering over her. Its face comes inches from hers. She freezes in terror. Shot 5 (12–15s): A loud GUNSHOT. The creature jerks violently and collapses sideways beside her. Smoke drifts in the doorway. The man stands there holding the gun, breathing heavily.
-```
-
-#### 📌 Details
-- Ratio: `1.33` | Duration: `15.08s`
-
----
-
-### 🎬 Robotic Dinosaur Attacks Cyberpunk City
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02911.jpg" width="480" alt="SD2_02911"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/robotic-dinosaur-attacks-cyberpunk-city-SD2_02911">🌐 Watch Online</a>
-
-#### 📝 Prompt
-```
-Enormous robotic dinosaur attacking a cyberpunk city at midnight, neon holograms everywhere, futuristic military fighting back, cinematic sci-fi movie scene, sparks, explosions, dramatic lighting, ultra realistic metallic textures, epic action atmosphere
-```
-
-#### 📌 Details
-- Ratio: `1.78` | Duration: `10.1s`
-
----
-
-### 🎬 Lone Soldier in Destroyed Spaceship
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02910.jpg" width="480" alt="SD2_02910"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/lone-soldier-destroyed-spaceship-SD2_02910">🌐 Watch Online</a>
-
-#### 📝 Prompt
-```
-Lone space soldier walking inside a destroyed futuristic spaceship, red emergency lights flashing, cinematic sci-fi atmosphere, floating debris in zero gravity, ultra realistic, dark movie scene, dramatic camera movement, emotional futuristic vibe
-```
-
-#### 📌 Details
-- Ratio: `1.78` | Duration: `10.1s`
-
----
-
-### 🎬 Alien Lab Escape: Sci-Fi Horror
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02909.jpg" width="480" alt="SD2_02909"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/alien-lab-escape-sci-fi-horror-SD2_02909">🌐 Watch Online</a>
-
-#### 📝 Prompt
-```
-High-tension sci-fi horror sequence inside a futuristic underground laboratory at night. Sterile white lighting mixed with flashing emergency reds, reflective floors, glass containment walls, computer monitors, scattered scientific equipment. Sound: low electrical hum, distant alarms, glass creaks, creature growls. Shot 1 (0–2s): Inside a laboratory corridor, a nervous security guard holding a handgun stands beside a woman in a white scientist lab coat. Behind a massive translucent containment glass wall— a huge distorted creature silhouette slowly moves. The scientist stares nervously and whispers: “I think… it’s awake.” Shot 2 (2–5s): Suddenly the containment glass violently EXPLODES inward. A massive alien creature bursts through in a shower of sparks and shattered glass. The security guard fires once but gets slammed backward onto the floor. The scientist screams and runs. Shot 3 (5–9s): The creature aggressively chases her through the laboratory. She sprints past flickering monitors and overturned equipment while the creature smashes through glass partitions behind her. Warning alarms activate. Specimen tanks shatter as it crashes through the lab. Shot 4 (9–12s): She runs into a smaller lab chamber— dead end. She backs against a counter, trapped. The creature slowly crawls toward her across the floor and walls, towering over her. It lowers its face inches from hers and opens its massive jaws wide. Shot 5 (12–15s): A loud GUNSHOT echoes. The creature jerks violently and collapses beside her. Smoke drifts through the doorway. The security guard stands there holding the handgun with shaking hands. The scientist exhales deeply in relief while red emergency lights flash across the destroyed laboratory.
-```
-
-#### 📌 Details
-- Ratio: `1.33` | Duration: `15.08s`
-
----
-
-### 🎬 Dragon Roar at Mountain Summit
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02908.jpg" width="480" alt="SD2_02908"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/dragon-roar-mountain-summit-SD2_02908">🌐 Watch Online</a>
-
-#### 📝 Prompt
-```
-Single shot, static camera framing a wide cinematic composition on a mountain summit at dawn, initially slightly close to the man’s upper body, a man [Image1] stands centered facing the camera, wearing a white mountain jacket, wind gently moving the fabric and his hair, soft cold light illuminating his face while vast layered blue mountains and distant snowy peaks stretch behind him under a dramatic cloudy sky, subtle mist drifting across the valleys. As the shot begins, the camera slowly and subtly pulls backward (slow dolly out) to widen the frame, revealing more of the expansive mountain landscape behind him, then slowly begins to raise both arms outward and upward but only to about shoulder height, not forming a full V, movement controlled and deliberate. As his hands reach mid-level, a sudden powerful shockwave erupts in the distant mountain behind him — a massive explosion without fire, only a violent burst of dust, rock, and pressure rippling outward, sending debris and thick clouds into the sky, the camera subtly shakes from the impact, adding intensity. From within the expanding dust cloud, two enormous dragons emerge, their massive silhouettes forming through smoke and light, detailed scales catching the cold daylight, their bodies anchored firmly on the mountain peaks, claws gripping the rock, wings partially spread but not flapping, they remain completely stationary. The man holds his arms steady at that height, unmoving. The first dragon lifts its head and releases a thunderous roar, followed by the second dragon roaring even louder, each roar causing visible environmental vibration — dust trembling, clouds swirling — and the camera shaking more intensely with each roar. Suddenly, from deeper within the dust and ruined mountain, a third dragon — significantly larger and more imposing — bursts into view behind them, its presence overwhelming, it immediately unleashes a massive, dominant roar, the strongest yet, causing a heavier camera shake and intensified atmospheric distortion. All three dragons remain fixed in their positions on the mountain, unmoving and dominant, dust and mist continuing to drift around them, the man stands firm in the foreground with arms partially raised, wind and particles flowing around him as the scene holds its dramatic tension. No Music
-```
-
-#### 📌 Details
-- Ratio: `1.78` | Duration: `15.1s`
-
----
-
-### 🎬 Mother's Day Heartwarming Surprise
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02907.jpg" width="480" alt="SD2_02907"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/mothers-day-heartwarming-surprise-SD2_02907">🌐 Watch Online</a>
-
-#### 📝 Prompt
-```
-A heartwarming cinematic Mother’s Day video. A mother wakes up early, prepares breakfast, gently wakes her child, helps with school clothes, hugs them before leaving. Transition to grown-up child surprising mother with flowers and a handwritten card. Soft golden morning light, emotional background music, slow-motion hugs, warm cozy home atmosphere, realistic facial expressions, cinematic camera angles, text overlay: “A mother’s love never fades. Happy Mother’s Day ❤️” 4K quality, emotional storytelling, vertical 9:16 format, 15 seconds.
-```
-
-#### 📌 Details
-- Ratio: `1.78` | Duration: `15.0s`
-
----
-
-### 🎬 Storm Assault: Tactical Covert Op
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02906.jpg" width="480" alt="SD2_02906"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/storm-assault-tactical-covert-op-SD2_02906">🌐 Watch Online</a>
-
-#### 📝 Prompt
-```
-Duration: 15 Seconds
-Style: Hyper-Speed Cinematic Action • Futuristic Spy Thriller • Dark Tactical Couture
-Format: Vertical 9:16 • UHD 8K • IMAX Handheld Camera • Dolby Atmos • Extreme Realism
-
-A hyper-realistic military action sequence inside a Hercules cargo aircraft flying through a violent thunderstorm at night. Extreme turbulence shakes the aircraft with realistic physics. Red emergency lights flash rapidly. Volumetric smoke fills the cabin. Blue-orange cinematic lighting creates a high-contrast futuristic battlefield atmosphere. Hyper-detailed VFX, motion blur, lens distortion, and dynamic IMAX handheld camera movement enhance the intensity and chaos.
-
-MAIN CHARACTER:
-A highly trained female covert operative in black tactical couture, calm and focused presence, extremely agile hand-to-hand combat specialist executing fast, precise tactical combat.
-
-0–2 SEC: Inside Hercules aircraft shaking violently in a storm. Red emergency lights flash. Close-up on boots stepping on metal floor camera tilts up revealing her cold focused face. Armed agents slowly surround her.
-
-2–4 SEC: First attack begins. She moves at hyperspeed. Whip-pan camera follows. Spinning heel kick knocks first agent into wall. Sparks and debris in slow motion.
-
-4–6 SEC: Rapid close combat. She performs Wing Chun + cyber ninja strikes. Multiple enemies are defeated in fast cinematic combinations. Camera rotates aggressively in tight corridor.
-
-6–8 SEC: Gunshot fired. She dodges bullet in ultra slow motion, disarms attacker, delivers knee strike, throws him toward cargo door. Alarm intensifies, chaos rises.
-
-8–10 SEC: Rear cargo door opens violently. Storm wind rushes inside. She fights final agents near the open edge. Lightning flashes create dramatic silhouettes.
-
- 10–12 SEC: Final enemy defeated with spinning kick, thrown out of aircraft. She immediately jumps into the storm night sky in epic slow motion.
-
-12–14 SEC: Freefall above clouds. Parachute deploys dramatically. Her outfit flows in extreme wind. Calm, controlled, deadly expression under lightning sky.
-
- 14–15 SEC: She throws a grenade toward the Hercules. Massive mid-air explosion destroys the aircraft. 
-
-Final shot: she floats under parachute with fireball and lightning storm behind cinematic assassin finale.
-```
-
-#### 📌 Details
-- Ratio: `1.78` | Duration: `15.14s`
-
----
-
-### 🎬 Iced Kopi Susu with Harvestside & Diamond
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02905.jpg" width="480" alt="SD2_02905"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/iced-kopi-susu-harvestside-diamond-SD2_02905">🌐 Watch Online</a>
-
-#### 📝 Prompt
-```
-UGC handheld video in an Indonesian home desk setup, hands-only casual creator style. Person shows a white Harvestside Arabica Instant Coffee pouch and a Diamond Fresh Milk carton clearly to camera, using the provided product images as faithful references for the coffee pouch and milk carton. Make iced kopi susu in a clear glass with visible ice on a cozy desk. Natural morning lighting, realistic phone camera, slight handheld movement, cozy bookshelf background, authentic Indonesian UGC, no studio look, no polished commercial lighting. Sequence for an 8-second 9:16 Seedance 2.0 video: First 1.5 seconds: hands hold both products close to camera with readable labels. Next 2 seconds: the Harvestside coffee pouch is standing upright on the desk, opened neatly at the resealable zip top. A small spoon scoops instant coffee powder from inside the pouch and adds it into the clear glass with ice. Do not pour coffee directly from the pouch, do not tear or rip the pouch, and do not show the pouch as a drink container. Next 2 seconds: pour Diamond Fresh Milk from the carton into the glass, creating a creamy coffee swirl. Final 2.5 seconds: close-up of the finished iced kopi susu on the desk with both product packages beside the glass. Soft upbeat morning lo-fi music background, natural ambient home mood, clean wholesome beverage preparation. Keep product labels faithful to the reference images.
-```
-
-#### 📌 Details
-- Ratio: `0.56` | Duration: `8.08s`
-
----
-
-### 🎬 First Dawn After Eternal Night
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02904.jpg" width="480" alt="SD2_02904"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/first-dawn-after-eternal-night-SD2_02904">🌐 Watch Online</a>
-
-#### 📝 Prompt
-```
-A cinematic emotional sci-fi sequence set in a world trapped in eternal night. 0–3s: Silent, frozen city under permanent darkness. Streetlights flicker weakly. Snow-like ash falls gently through empty streets. People stand on rooftops staring at a black horizon. 3–6s: Close-up shots of exhausted faces—people holding onto each other, waiting. Radios crackle with static. A faint, unexplained vibration moves through the air. 6–9s: The sky begins to change for the first time in years. A thin, impossible line of warm orange light appears at the horizon. Birds suddenly take flight. Wind picks up. 9–12s: Emotional escalation—people drop to their knees, crying, laughing, shielding their eyes. The first rays of sunlight break through the darkness, touching buildings that haven’t seen light in years. 12–15s: Final wide cinematic shot. The sun rises fully over the world, flooding everything with golden light. Ice melts, shadows retreat, and the city slowly awakens in silence and awe. Style: ultra cinematic realism, emotional tone, soft golden volumetric lighting, slow-motion human reactions, high-detail environments, film-grade color grading, hopeful and transformative atmosphere.
+Use @image1 as the permanent facial identity reference. Preserve the exact face, skin tone, makeup, eye shape, and expression in every frame. Only change outfit, hairstyle, accessories, pose, and body movement. Create a 15-second Makoto Shinkai-inspired cinematic anime sequence. A young woman enjoys a peaceful walk through a cherry blossom hill at golden hour. She accidentally steps on a hidden envelope, kneels to pick it up, and discovers her own name written in familiar handwriting. She quietly freezes for a moment, then walks to a large cherry blossom tree, opens the letter, and reads it. Tiny golden particles rise from the handwritten words like fading memories. She gently closes the letter, holds it to her heart, and stands beneath the tree as thousands of petals swirl around her while the camera pulls into a breathtaking aerial farewell shot. Style: Photorealistic anime, Your Name, Suzume, Weathering With You, warm golden-hour lighting, HDR, 4K, ultra-detailed backgrounds, cinematic depth of field, realistic cloth and hair physics, natural cherry blossom petal motion, smooth camera transitions, emotional storytelling, Joe Hisaishi-inspired orchestral atmosphere. Negative Prompt: No facial changes, no identity drift, no extra characters, no ghosts, no anatomy errors, no flicker, no camera shake, no harsh VFX, no oversaturated colors, no clipping, no unrealistic physics.
 ```
 
 #### 📌 Details
@@ -358,17 +221,129 @@ A cinematic emotional sci-fi sequence set in a world trapped in eternal night. 0
 
 ---
 
-### 🎬 Emotional Confrontation in a Dim Kitchen
-<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_02903.jpg" width="480" alt="SD2_02903"><br>
-<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/emotional-confrontation-dim-kitchen-SD2_02903">🌐 Watch Online</a>
+### 🎬 One Disastrous Morning
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04207.jpg" width="480" alt="SD2_04207"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/disastrous-morning-SD2_04207">🌐 Watch Online</a>
 
 #### 📝 Prompt
 ```
-15s, cinematic emotional confrontation. Two characters @[chracter sheet ref] stand face-to-face inside a small apartment kitchen late at night. The room is dimly lit by a single warm overhead light and soft city lights leaking through the window. The atmosphere feels emotionally exhausted, tense and painfully intimate, like an argument that has been building for years. Modern cinematic realism, subtle handheld camera movement, shallow depth of field, soft film grain, emotionally restrained acting, realistic silence between dialogue lines. Beat 1: The emotional state remains at high arousal and medium-low valence. Camera: slow handheld side shot circling both characters tight over-the-shoulder close-ups brief eye-level two-shot showing emotional distance FACS Character A: AU4 + AU7 + AU17 Dialogue A: /juː ˈnev.ɚ ˈriː.ə .li lʊkt æt miː/ /juː wɚ ɔːlˌweɪz ˈsʌmˌwɛɹ ɛls/ Voice: tight restrained voice, controlled anger, uneven breathing Character A tries to stay calm while suppressing years of resentment. Beat 2: The emotional state gradually shifts toward very low valence and medium-high arousal. Camera: slow push-in toward Character B extreme close-up on trembling eyes and mouth wide static shot showing silence after the argument peaks FACS Character B: AU1 + AU4 + AU15 + AU25 Dialogue B: /aɪ wəz ˈtɹaɪ.ɪŋ maɪ bɛst/ /aɪ dɪdnt noʊ haʊ tə fɪks ˈɛv.ɹiˌθɪŋ/ Voice: breaking voice, unstable breath support, emotionally collapsing delivery Beat 3: The emotional state remains at very low valence and medium-low arousal. Camera: locked wide shot with silence between them slow close-up on both characters avoiding eye contact subtle rack focus between faces FACS Character A: AU1 + AU15 + AU17 Dialogue A: /ˈmeɪ.bi wiː stɑpt ˈlɪs.ən.ɪŋ ə lɔŋ taɪm əˈgoʊ/ Voice: emotionally exhausted, quieter delivery, fading anger replaced by sadness No exaggerated screaming, no violence, no comedy, no text overlay, no watermark.
+STYLE: High-end stylized 3D animated female character, cinematic lighting, expressive facial animation, polished materials, exaggerated but believable motion, comedic visual storytelling. CHARACTER: Young adult woman with expressive eyes and medium-length hair, maintaining consistent facial features throughout all shots. WARDROBE: Blue striped pajamas in shots 1–9. Dark business suit, white shirt, blazer, formal trousers or skirt, and dress shoes in shots 12–15. Final shot: still wearing the same rain-soaked business suit. ENVIRONMENT: Cozy bedroom, bathroom, kitchen, rainy street, bus stop, office, and dark bedroom in the final scene. MOOD: Chaotic, rushed, unlucky, comedic frustration, escalating panic, humorous mishaps, ending in emotional defeat. STORY FLOW: She wakes up late when her alarm rings, rushes out of bed in panic, gets ready as fast as possible, discovers there's almost nothing in the refrigerator, quickly grabs breakfast, brushes her teeth while multitasking, spills water, struggles to get dressed, runs through heavy rain to catch the bus, arrives late at work, gets scolded by her boss, and finally returns home exhausted, collapsing onto her bed. Maintain consistent character appearance, outfit continuity, cinematic framing, expressive acting, and Pixar-quality 3D animation across every storyboard panel.
 ```
 
 #### 📌 Details
-- Ratio: `1.78` | Duration: `15.03s`
+- Ratio: `0.75` | Duration: `14.94s`
+
+---
+
+### 🎬 Morning Breakfast Vlog
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04206.jpg" width="480" alt="SD2_04206"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/morning-breakfast-vlog-SD2_04206">🌐 Watch Online</a>
+
+#### 📝 Prompt
+```
+Create a photorealistic, cinematic lifestyle vlog featuring a **22-year-old female influencer** in a bright, modern apartment kitchen during golden morning light. The video should feel like it was casually filmed on a high-end smartphone with natural handheld camera movement, subtle autofocus shifts, realistic lighting, authentic kitchen sounds, and believable facial expressions. Maintain the same character throughout the entire sequence. **Scene 1 (0–3s):** She walks into the kitchen wearing an oversized cream sweatshirt and grey lounge shorts, smiling at the camera while opening the refrigerator. She grabs eggs, milk, butter, yogurt, berries, granola, and coffee beans. **Dialogue:** "Come make breakfast with me... I'm starving." **Scene 2 (3–6s):** Close-up of butter sizzling in a pan as she cracks two eggs with one hand. She gently stirs them into fluffy scrambled eggs while steam rises naturally. **Dialogue:** "Scrambled eggs are non-negotiable." **Scene 3 (6–9s):** She pours pancake batter onto a hot pan, flips a golden pancake in one smooth motion, then laughs after catching it perfectly. **Dialogue:** "Okay... that flip was actually kind of impressive." **Scene 4 (9–12s):** She assembles a yogurt bowl with thick Greek yogurt, crunchy granola, fresh strawberries, blueberries, banana slices, and a drizzle of honey. Quick macro shots capture the textures and movement. **Dialogue:** "This might be my favorite part." **Scene 5 (12–15s):** She pours a fresh cup of coffee, carries everything to a sunny dining table, sits down, takes a bite of pancake, then a sip of coffee while smiling at the camera. **Dialogue:** "Breakfast is served. Hope you have the best day." **Style Notes:** Ultra-realistic, premium influencer aesthetic, natural skin texture, soft morning sunlight through windows, cozy neutral kitchen, realistic food textures, shallow depth of field, smooth handheld camera, subtle cinematic motion blur, authentic ambient sounds (sizzling pan, coffee pouring, utensils, birds outside), warm color grading, 4K quality, highly detailed, TikTok/Instagram Reel lifestyle vlog, seamless continuity, no jumpy character changes, natural lip-sync matching dialogue.
+```
+
+#### 📌 Details
+- Ratio: `1.78` | Duration: `15.17s`
+
+---
+
+### 🎬 Sweaty Morning Walk Through Korean Village
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04205.jpg" width="480" alt="SD2_04205"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/sweaty-korean-village-morning-walk-SD2_04205">🌐 Watch Online</a>
+
+#### 📝 Prompt
+```
+**SCENE** Seedance 2.0 slice-of-life, 15 seconds. @ image1 = Main Subject. Preserve exact face, hairstyle, features, skin tone, and body proportions throughout. **OUTFIT:** Oversized olive sleeveless linen shirt loosely tucked into wide-leg dusty burgundy trousers, flat brown leather sandals, small gold hoop earrings. Shirt naturally damp/sweat-stained at collar, underarms, chest. Hair loosely down, natural waves, few strands sticking to face and neck. Completely unglamorous. **LOCATION:** Authentic traditional Korean rural village. Dirt/gravel paths. Mossy stone walls. Hanok houses with aged clay tile roofs. Wooden fences. Overgrown grass. Gnarled old trees. Stone water basin. Hanging dried chili peppers. Cracked stone steps. Ceramic facial jars. Free-roaming roosters. Morning cooking smoke. Dense hillside vegetation. Zero modern elements. **CAMERA:** Late-2000s flip cam vlog. Heavy handheld shake. Imperfect reframing. Subject frequently off-center or cropped. Aggressive autofocus hunting. Lens breathing. Strong exposure swings. Rolling shutter. Heavy motion blur. Warm faded washed-out muddy tones. Blown highlights. Crushed blacks. Heavy digital noise and compression artifacts. Maximum home-video imperfection. --- **00:00–00:02** — Mossy stone wall path. Loose sweaty arm's-length self-shot. Woman smiles tiredly, speaks casually to lens while walking. Weeds brush past. Camera tilts mid-walk. **00:02–00:04** — Hanok courtyard. Handheld from behind. Woman walks through; stray dog trots alongside. Jangdok jars along wall. Morning smoke drifts low. **00:04–00:06** — Stone water basin. Handheld close. Woman crouches, splashes cool water on sweaty face and neck, exhales with relief, laughs softly. Focus hunts aggressively. **00:06–00:08** — Gnarled tree, stone wall. Low handheld. Woman crouches, hand-feeds stray dog. Camera breathes between her face and the dog. **00:08–00:10** — Village path. Handheld side tracking. Woman walks slowly, wipes sweat from forehead, glances around. Rooster crosses ahead. Camera sways, reframes late. **00:10–00:12** — Shaded hanok exterior, stacked ceramic pots. Woman sits on cracked stone step, sips from battered tin cup. Shirt visibly damp. Elderly woman moves in background. Breeze lifts hair. **00:12–00:15** — Dirt path near gnarled tree. Self-shot. Woman raises camera to sweaty face, laughs tiredly, speaks casually, gives small wave. Recording cuts abruptly mid-moment. --- No posing. No fashion look. No perfect composition. No stabilization. No cinematic glamour. No modern grading. No music. **AUDIO:** Morning birds, roosters, distant village chatter, dog, water on stone, crackling fire, footsteps on dirt, rustling leaves, wind, ceramic sounds. **16:9.**
+```
+
+#### 📌 Details
+- Ratio: `1.78` | Duration: `15.13s`
+
+---
+
+### 🎬 Pixar Style Female Firefighter
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04204.jpg" width="480" alt="SD2_04204"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/pixar-female-firefighter-SD2_04204">🌐 Watch Online</a>
+
+#### 📝 Prompt
+```
+Use the attached THE FIREFIGHTER storyboard image as the exact reference. Create a 12-second 16:9 animated firefighting sequence that follows the 8-shot storyboard exactly. Preserve the same Pixar-style strong brave female firefighter, full
+```
+
+#### 📌 Details
+- Ratio: `0.75` | Duration: `15.08s`
+
+---
+
+### 🎬 Ancient Beauty's Silent Gaze
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04203.jpg" width="480" alt="SD2_04203"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/ancient-beauty-silent-gaze-SD2_04203">🌐 Watch Online</a>
+
+#### 📝 Prompt
+```
+Reference image video · Seedance 2.0 · 4K · Portrait 9:16 · 15 seconds · Pure Eye Expression Facial Scenes · Zero Lines · Ultimate Live Performance Character Reference CHARACTER REF (=upload setting image, lock character image): ancient-style beauty, black hair with high buns and curled long hair hanging down, gold-inlaid gemstone floral crown + pearl tassel dangling, bare shoulders pink floral embroidered strapless long dress, light pink tulle over top, long tassel earrings. Facial features, makeup, hair accessories, and clothing must be 100% consistent with the reference images throughout; no deformation or face swapping allowed. Vertical composition: 9:16 vertical format, with the subject's face centered slightly upward, leaving breathing room, suitable for close-ups and dual-eye macros, with background blurred above and below. SCENE (newly generated): A quiet courtyard waterside pavilion, behind a half-sheer gauze curtain, distant flower shadows hazy, warm dusk light slanting in, dust drifting in the beam of light, a gentle breeze stirring the gauze curtains and hair. Quiet, elegant, and open space. Core of performance: pure eye contact + facial expressions, zero lines, no narration, zero subtitles throughout—all emotions are expressed through the slightest movements of the eyes, eyelashes, brows, nose, and lips. Queen-level live-action performance: all the drama is on the face, the subtext is in the eyes. Real skin is fine and breathing fluctuates, blinking rhythms are irregular, eyes move first, head follows, micro-expressions convey an "imperfect realism," lively yet natural, with no plastic AI vibe. Storyboard script (emotional progression, no lines, mainly vertical close-up): SHOT 1 \| 0-2.5 sec \| Medium Close-up of Face (vertical composition) Slightly lowered eyes, gaze falls into the empty space before the eyes, eyes calm and absent-minded, eyelashes tremble slightly, lips parted and gently pursed, breathing visible. SHOT 2 \| 2.5-5.5 sec \| Close-up of Eyes macro Eye waves shift from still, pupils shift subtly as if reminiscing, a gentle warmth first rises in the eyes, and the corners of the mouth soften almost imperceptibly—emotion rises only in the eyes, the face barely moves. SHOT 3 \| 5.5-8.5 seconds \| Close-up of the face A sudden sting flashes through the warmth, her eyes tremble slightly, tears glisten in her eyes, her brows furrow and relax, nostrils twitch, and she struggles to keep her emotions from escaping. SHOT 4 \| 8.5-11.5 seconds \| Close-up of both eyes macro Tears swirl in her eyes but never fall; she slowly closes her eyes for a moment, and when she opens them again, vulnerability is fully embraced—this is the film's most restrained emotional explosive moment. SHOT 5 \| 11.5-15 seconds \| Back to Face Medium Close-up (Freeze Frame) Slowly lift your eyes to look out of the frame, your gaze soft, gentle, and slightly bright. A faint, relieved yet slightly wistful smile forms at the corner of your lips. Your lips move slightly, then quickly withdraw (wanting to speak but pause), finally freezing in a cool, gentle, slightly melancholic mood—your gaze still 'speaking,' and the scene has already gone still. Camera: Vertical handheld with very slight breathing sensation, multi-shot—alternating between mid-close and binocular macro shots on the face; Switching to match the emotional rhythm, shallow depth of field, blurred shadows of the background curtain, occasional subtle breath-like refocusing, always keeping the eyes and face in check. Atmosphere & Light: Warm light at dusk, soft warmth tones, light beams floating dust, grainy film shots, soft highlights without exposure; The gauze curtains, stray hair, and pearl tassels move gently with the light airflow, leaving the painting with a faint flow to avoid dead silence. CONSTRAINTS: - 4K ultra HD, vertical screen at 9:16, 15 seconds, characters match reference images (no camera changes, no faces, no costumes) - Zero lines, no narration, zero subtitles throughout—pure eye contact and facial expressions - Emotions build up layer by layer (mesmerized→ gentle memories→ painful tears→ restrained → letting go but holding back) - Queen-level live-action filming: real skin, irregular blinking, eyes moving before turning, tears stay in the eyes - Eliminate AI flavor: no excessive skin smoothing, excessive symmetry, excessive smoothness, Plastic masks, stiff and dull – avoid glowing eyes and abnormal pupils; Tears are truly restrained - storyboard transitions closely match the emotional beat, no frame skipping or flickering - the ending naturally freezes with a hesitant expression, no black screen, no transitions - no subtitles, no watermarks, no marks, no text
+```
+
+#### 📌 Details
+- Ratio: `0.56` | Duration: `15.03s`
+
+---
+
+### 🎬 Female Assassin Cliff Leap
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04202.jpg" width="480" alt="SD2_04202"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/female-assassin-cliff-leap-SD2_04202">🌐 Watch Online</a>
+
+#### 📝 Prompt
+```
+SECTION 1 (0–15s) — The Hunt A moonlit forest covered in mist. A skilled female assassin, Rin, sprints through the trees with incredible speed while armed soldiers chase her. The camera switches between close-ups of her determined eyes, her boots hitting the ground, and the pursuers crashing through branches. Enemy: "There she is! Don't let her escape!" Commander (radio): "Cut her off! She can't get far!" Earpiece: "Rin, they're surrounding you. Head for the cliff!" Rin (calmly): "I'm counting on it." She accelerates deeper into the forest. SECTION 2 (15–30s) — The Fight Two enemies suddenly block her path. She stops instantly. The forest falls silent for a moment. Enemy: "It's over. Drop your weapon." Rin gives a faint smile. Rin: "You should've stayed out of my way." An intense fight erupts. She dodges a knife, disarms one attacker, throws him into a tree, spins behind the second, and knocks him unconscious with a precise strike. More enemies rush in from every direction. Commander: "Move! She's heading for the cliff!" Rin glances ahead and starts running again SECTION 3 (30–45s) — The Final Leap Rin reaches the edge of a towering cliff overlooking a violent ocean. Dozens of armed soldiers surround her with rifles aimed. Commander: "You're out of options. Surrender." Rin slowly turns to face them, completely fearless. Rin: "You think this is the end..." She steps backward toward the edge. Rin: "...this is only the beginning." She leaps off the cliff in slow motion. The soldiers rush to the edge and look down. A huge splash echoes through the night. The water below slowly turns crimson red, spreading across the waves. The commander whispers, Commander: "...What have we done?" Cut to black.
+```
+
+#### 📌 Details
+- Ratio: `1.78` | Duration: `42.13s`
+
+---
+
+### 🎬 Milkshake Maker Storyboard Poster
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04201.jpg" width="480" alt="SD2_04201"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/milkshake-maker-storyboard-SD2_04201">🌐 Watch Online</a>
+
+#### 📝 Prompt
+```
+Create a crisp, clean infographic storyboard poster for THE MILKSHAKE MAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — creamy vanilla white, vivid red cherry, pure white
+```
+
+#### 📌 Details
+- Ratio: `1.78` | Duration: `15.13s`
+
+---
+
+### 🎬 Premium Matte Black Earbuds Ad
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04200.jpg" width="480" alt="SD2_04200"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/matte-black-earbuds-ad-SD2_04200">🌐 Watch Online</a>
+
+#### 📝 Prompt
+```
+A hyper-visual, 16:9 fast-paced 10-second cinematic AI product commercial for premium matte black wireless earbuds, structured with four high-energy, seamless match-cuts. [0-2s] Lifestyle: A low-angle, tracking shot of a sharp, stylish young man walking through a moody, rainy cyberpunk city at night; vibrant neon signs create an ultra-blurred background bokeh while he glances down at a glowing smartphone screen, wearing a sleek earbud. [2-5s] Size & Portability: A top-down, geometric overhead flat-lay on a dark, wet obsidian stone texture. A seamless hard-cut reveals the earbuds precisely arranged alongside a modern smartphone, minimalist carbon-fiber wallet, and a luxury key fob, hit by a dramatic side-shadow. [5-8s] Packaging: An explosive, fast macro-zoom onto a floating, deep-black holographic retail box. The premium packaging performs a rapid 360-degree spin against an abstract, smoky dark background with glowing edge highlights. [8-10s] CTA: A perfectly symmetrical, ultra-close-up hero shot. The dual earbuds float and rotate in mid-air just above their open charging case, illuminated by a brilliant anamorphic lens flare and moody studio rim-lighting. Aesthetic: High-end tech commercial, 8k resolution, photorealistic textures, crisp anamorphic lighting, and snappy, seamless jump-cut transitions.
+```
+
+#### 📌 Details
+- Ratio: `1.78` | Duration: `10.0s`
+
+---
+
+### 🎬 Flirty Hallway Selfie Tease
+<img src="https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets/resolve/main/seedance-2/covers/SD2_04199.jpg" width="480" alt="SD2_04199"><br>
+<a href="https://prompthub.gokuscraper.com/en/seeddance2/prompt/flirty-hallway-selfie-SD2_04199">🌐 Watch Online</a>
+
+#### 📝 Prompt
+```
+The exact face, features, hairstyle, body proportions, and temperament are fully preserved in the reference images. The main subjects are real adult East Asian women, with the outfit strictly following the beige spaghetti strap pencil skirt shown in the picture. The fabric is lightweight and close-fitting, with a slight glow on the skin. Realistic indoor light film texture, with slight natural handheld phone selfie shake, natural recomposition, slight shaking, and clear and delicate skin texture. 00:00-00:02 Maintaining a squatting selfie angle, she first gently raised her index finger to her lips in a "shh" silence gesture, playfully looking at the camera, a slight smile at the corner of her mouth, and the camera trembled naturally. 00:02-00:05 Naturally turned her head to glance at the corridor behind her, as if checking if anyone was there. Her movements were light and natural, her long hair swaying as she held the camera and turned her head in a natural way. 00:05-00:10 Quickly turns back to face the camera, a more obvious mischievous smile at the corner of her mouth. The hand that doesn't hold the phone gently tugs at the edge of her shirt, making a suggestive tugging gesture (not exposing exposure), with a slightly teasing gaze, a mischievous grin, the action lasts 2-3 seconds, then slowly loosens the shirt, finally a playful wink smile, holding the camera with a slight tremor that naturally ends. Natural environment sounds: Quiet indoor corridors include slight footsteps echoing, breathing, faint rubbing of clothes, and low air conditioning rumbling in the distance. Overall, the atmosphere is quiet and ambiguous, with no music.
+```
+
+#### 📌 Details
+- Ratio: `0.57` | Duration: `10.08s`
 
 ---
 
